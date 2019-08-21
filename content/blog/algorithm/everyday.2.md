@@ -29,5 +29,4 @@ Output: 3 // “dog”
 
 ![](../../../assets/everyday/everyday.2.solution.png)
 
-> 출처  https://mailprogramming.com/
-
+> 출처  <a href="https://mailprogramming.com" target="_blank">https://mailprogramming.com</a>

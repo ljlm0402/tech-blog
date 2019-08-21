@@ -29,4 +29,4 @@ Output = 60 // 3 * 4 * 5 = 60
 
 ![](../../../assets/everyday/everyday.12.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=9
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=9" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=9</a>

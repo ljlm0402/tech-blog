@@ -28,4 +28,4 @@ Output: 44 // 2 + 8 + 34 = 44
 
 ![](../../../assets/everyday/everyday.6.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=2
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=2" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=2</a>

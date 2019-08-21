@@ -23,4 +23,4 @@ Ouput: 2640 // 3025 - 385 = 2640
 
 ![](../../../assets/everyday/everyday.10.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=6
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=6" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=6</a>

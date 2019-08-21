@@ -25,4 +25,4 @@ Ouput: 9009 // 91 × 99 = 9009
 
 ![](../../../assets/everyday/everyday.8.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=4
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=4" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=4</a>

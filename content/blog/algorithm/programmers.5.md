@@ -34,4 +34,4 @@ category: 'algorithm'
 
 ![](../../../assets/programmers/programmers.3.solution.png)
 
-> 출처  https://programmers.co.kr/learn/courses/30/lessons/42746
+> 출처  <a href="https://programmers.co.kr/learn/courses/30/lessons/42746" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/42746</a>

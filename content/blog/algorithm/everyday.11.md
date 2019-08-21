@@ -26,4 +26,4 @@ Ouput: 13
 
 ![](../../../assets/everyday/everyday.11.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=7
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=7" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=7</a>

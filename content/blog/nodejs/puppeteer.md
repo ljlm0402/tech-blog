@@ -62,4 +62,4 @@ npm install puppeteer
 
 다음은 앞서 말한 세 가지 모듈을 활용하여 소스를 작성 해보았다. 
 
-> 참고  https://github.com/bynodejs/crawling
+> 출처  <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>

@@ -23,4 +23,4 @@ Output 17 // 2 + 3 + 5 + 7 = 17
 
 ![](../../../assets/everyday/everyday.13.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=10
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=10" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=10</a>

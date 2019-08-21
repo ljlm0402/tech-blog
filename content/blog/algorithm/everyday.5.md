@@ -23,4 +23,4 @@ Output: 23 // 3 + 5 + 6 + 9 = 23
 
 ![](../../../assets/everyday/everyday.5.solution.png)
 
-> 출처  http://euler.synap.co.kr/prob_detail.php?id=1
+> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=1" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=1</a>
