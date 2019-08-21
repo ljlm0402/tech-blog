@@ -5,9 +5,10 @@ import './index.scss'
 export const GitHubIcon = () => {
   return (
     <a
-      href="https://github.com/JaeYeopHan/felog"
+      href="https://github.com/ljlm0402"
       className="github"
       aria-label="GitHub"
+      target="_blank"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

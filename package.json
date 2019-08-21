@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Gatsby blog",
-  "author": "AGUMON[KyungMinLim]<ljlm0402@gmail.com>",
+  "author": "AGUMON[KyungMinLim] <ljlm0402@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "npm run develop",
@@ -11,7 +11,7 @@
     "build": "gatsby build",
     "post": "node ./cli/create-new-post.js",
     "develop": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:ljlm0402/ljlm0402.github.io.git'",
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:ljlm0402/blog.github.io.git'",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "lh": "lighthousebot",
@@ -72,7 +72,18 @@
     "signale": "^1.4.0"
   },
   "keywords": [
+    "nodejs",
+    "javascript",
+    "react",
     "gatsby",
     "netlify"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljlm0402/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ljlm0402/blog/issues"
+  },
+  "homepage": "https://github.com/ljlm0402/blog#readme"
 }
