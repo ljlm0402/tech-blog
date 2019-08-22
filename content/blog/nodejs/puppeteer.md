@@ -4,7 +4,7 @@ date: 2019-08-21 20:38:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.png)
+![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.0.png)
   
 <center><strong>Headless Chrome</strong>을 쉽게 사용할 수 있는 node.js 라이브러리이다.</center>
 
@@ -84,5 +84,9 @@ npm install puppeteer
 2. cheerio 모듈을 통해 손쉽게 Element 접근
 
 3. exceljs 모듈을 통해 데이터 수집이 완료 시 Excel 저장
+
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
 
 > 출처  <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>

@@ -25,4 +25,8 @@ Ouput: 9009 // 91 × 99 = 9009
 
 ![](../../../assets/euler/euler.4.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=4" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=4</a>

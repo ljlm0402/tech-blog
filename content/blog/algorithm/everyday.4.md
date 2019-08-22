@@ -23,4 +23,8 @@ Output: ABC ACB BAC BCA CBA CAB
 
 ![](../../../assets/everyday/everyday.4.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="https://mailprogramming.com" target="_blank">https://mailprogramming.com</a>

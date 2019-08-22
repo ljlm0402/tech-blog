@@ -23,4 +23,8 @@ Output 17 // 2 + 3 + 5 + 7 = 17
 
 ![](../../../assets/euler/euler.10.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=10" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=10</a>

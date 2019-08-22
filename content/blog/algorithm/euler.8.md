@@ -51,4 +51,8 @@ Output 5832 // 9 * 9 * 8 * 9 = 5832
 
 ![](../../../assets/euler/euler.8.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=8" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=8</a>

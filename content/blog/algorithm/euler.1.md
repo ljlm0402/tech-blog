@@ -23,6 +23,10 @@ Output: 23 // 3 + 5 + 6 + 9 = 23
 
 ![](../../../assets/euler/euler.1.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=1" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=1</a>
 
 

@@ -32,4 +32,8 @@ Output = 60 // 3 * 4 * 5 = 60
 
 ![](../../../assets/euler/euler.9.solution.png)
 
+#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+
+<br />
+
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=9" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=9</a>
