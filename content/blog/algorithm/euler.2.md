@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 매일 알고리즘 - 6'
+title: ' [알고리즘] 프로젝트 오일러 - 2'
 date: 2019-04-21 15:08:00
 category: 'algorithm'
 ---
@@ -26,6 +26,8 @@ Output: 44 // 2 + 8 + 34 = 44
 문제 풀이
 -------
 
-![](../../../assets/everyday/everyday.6.solution.png)
+![](../../../assets/euler/euler.2.solution.png)
 
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=2" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=2</a>
+
+

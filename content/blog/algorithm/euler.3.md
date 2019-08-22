@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 매일 알고리즘 - 7'
+title: ' [알고리즘] 프로젝트 오일러 - 3'
 date: 2019-04-22 17:05:00
 category: 'algorithm'
 ---
@@ -25,6 +25,8 @@ Ouput: 29 // [5, 7, 13, 29]
 문제 풀이
 -------
 
-![](../../../assets/everyday/everyday.7.solution.png)
+![](../../../assets/euler/euler.3.solution.png)
 
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=3" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=3</a>
+
+

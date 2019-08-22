@@ -1,6 +1,6 @@
 ---
-title: ' [알고리즘] 매일 알고리즘 - 13'
-date: 2019-04-28 15:08:63
+title: ' [알고리즘] 프로젝트 오일러 - 10'
+date: 2019-04-29 15:08:63
 category: 'algorithm'
 ---
 
@@ -21,6 +21,6 @@ Output 17 // 2 + 3 + 5 + 7 = 17
 문제 풀이
 -------
 
-![](../../../assets/everyday/everyday.13.solution.png)
+![](../../../assets/euler/euler.10.solution.png)
 
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=10" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=10</a>

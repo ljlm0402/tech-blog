@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 매일 알고리즘 - 10'
+title: ' [알고리즘] 프로젝트 오일러 - 6'
 date: 2019-04-25 12:22:63
 category: 'algorithm'
 ---
@@ -21,6 +21,6 @@ Ouput: 2640 // 3025 - 385 = 2640
 문제 풀이
 -------
 
-![](../../../assets/everyday/everyday.10.solution.png)
+![](../../../assets/euler/euler.6.solution.png)
 
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=6" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=6</a>

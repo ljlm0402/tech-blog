@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 매일 알고리즘 - 5'
+title: ' [알고리즘] 프로젝트 오일러 - 1'
 date: 2019-04-20 15:00:00
 category: 'algorithm'
 ---
@@ -21,6 +21,8 @@ Output: 23 // 3 + 5 + 6 + 9 = 23
 문제 풀이
 -------
 
-![](../../../assets/everyday/everyday.5.solution.png)
+![](../../../assets/euler/euler.1.solution.png)
 
 > 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=1" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=1</a>
+
+

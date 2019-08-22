@@ -52,14 +52,37 @@ npm install puppeteer
 ▶︎ 추가적으로...
 -----------
 
-- 크롤링 소스를 조금 더 세련되면서 편의를 위해 몇 가지 모듈을 추가 해보았다.
+`크롤링`을 세련도를 높이고자 몇 가지 모듈을 추가하였다.
 
-1. cheerio
+**cheerio**
+-   HTML DOM Element 접근에 용이한 모듈
 
-2. exceljs
+<br />
 
-3. readline-sync
+**exceljs**
+-   Excel 파일 생성 모듈
 
-다음은 앞서 말한 세 가지 모듈을 활용하여 소스를 작성 해보았다. 
+<br />
+
+**readline-sync**
+-   콘솔 입력 모듈
+
+<br />
+
+다음은 앞서 말한 세 가지 모듈을 활용하여 소스를 작성 해보았다.
+
+<br />
+
+![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.6.png)
+
+<br />
+
+해당 소스는 `네이버 맵` 크롤링 소스이다. 간략히 설명 하겠습니다.
+
+1. readline 모듈을 통해 검색어를 입력
+
+2. cheerio 모듈을 통해 손쉽게 Element 접근
+
+3. exceljs 모듈을 통해 데이터 수집이 완료 시 Excel 저장
 
 > 출처  <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>
