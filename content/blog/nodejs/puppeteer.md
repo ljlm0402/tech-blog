@@ -85,8 +85,9 @@ npm install puppeteer
 
 3. exceljs 모듈을 통해 데이터 수집이 완료 시 Excel 저장
 
-#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
 
 <br />
 
-> 출처  <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>
+> 출처
+> <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>

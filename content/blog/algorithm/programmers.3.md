@@ -46,8 +46,9 @@ category: 'algorithm'
 
 ![](../../../assets/programmers/programmers.3.solution.png)
 
-#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
 
 <br />
 
-> 출처  <a href="https://programmers.co.kr/learn/courses/30/lessons/42579" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/42579</a>
+> 출처
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/42579" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/42579</a>

@@ -4,7 +4,7 @@ date: 2019-08-22 11:08:60
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/javascript.async.await.0.png)
+![](../../../assets/javascript/async-await/javascript.async.await.0.png)
 
 <center>ES8(ECMAScript2017) 정의된 <strong style="color:navy">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
 
@@ -16,7 +16,7 @@ category: 'javascript'
 ▶︎ 문제를 보며...
 -------------
 
-![](../../../assets/javascript/javascript.async.await.1.png)
+![](../../../assets/javascript/async-await/javascript.async.await.1.png)
 
 결과 : `1 3 5 2 4`
 
@@ -27,7 +27,7 @@ category: 'javascript'
 ▶︎ 해답을 보며...
 -------------
 
-![](../../../assets/javascript/javascript.async.await.2.png)
+![](../../../assets/javascript/async-await/javascript.async.await.2.png)
 
 결과 : `1 2 3 4 5`
 
@@ -38,16 +38,15 @@ category: 'javascript'
 ▶︎ 실습을 해보며...
 --------------
 
-![](../../../assets/javascript/javascript.async.await.3.png)
+![](../../../assets/javascript/async-await/javascript.async.await.3.png)
 
 해당 이미지는 한 기업에서 출제 했던 서면 인터뷰입니다.
 
 - 다음 실행 결과와 그 이유를 설명하시오.
 
-- 문제를 풀어보시고 댓글을 남겨 주시면 감사합니다.
-
-#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
 
 <br />
 
-> 출처  <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">https://github.com/bynodejs/study/blob/master/javascript/async_await.js</a>
+> 출처  
+> <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">https://github.com/bynodejs/study/blob/master/javascript/async_await.js</a>

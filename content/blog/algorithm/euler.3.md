@@ -27,10 +27,9 @@ Ouput: 29 // [5, 7, 13, 29]
 
 ![](../../../assets/euler/euler.3.solution.png)
 
-#끝까지 봐 주셔서 감사합니다.  ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
 
 <br />
 
-> 출처  <a href="http://euler.synap.co.kr/prob_detail.php?id=3" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=3</a>
-
-
+> 출처
+> <a href="http://euler.synap.co.kr/prob_detail.php?id=3" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=3</a>
