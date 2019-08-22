@@ -4,7 +4,7 @@ date: 2019-03-19 18:00:00
 category: 'algorithm'
 ---
 
-문제 설명
+▶︎ 문제 설명
 -------
 
 - 배열 array의 i번째 숫자부터 j번째 숫자까지 자르고 정렬했을 때, k번째에 있는 수를 구하려 합니다.
@@ -21,7 +21,7 @@ category: 'algorithm'
 
 - commands의 모든 원소에 대해 앞서 설명한 연산을 적용했을 때 나온 결과를 배열에 담아 return 하도록 solution 함수를 작성해주세요.
 
-제한 사항
+▶︎ 제한 사항
 -------
 
 - array의 길이는 1 이상 100 이하입니다.
@@ -32,17 +32,17 @@ category: 'algorithm'
 
 - commands의 각 원소는 길이가 3입니다.
 
-입출력 예
+▶︎ 입출력 예
 -------
 
 ![](../../../assets/programmers/programmers.3.example.png)
 
-문제 풀이
+▶︎ 문제 풀이
 -------
 
 ![](../../../assets/programmers/programmers.3.solution.png)
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 

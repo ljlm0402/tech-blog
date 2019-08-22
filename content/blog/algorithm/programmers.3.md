@@ -4,7 +4,7 @@ date: 2019-03-18 18:00:00
 category: 'algorithm'
 ---
 
-문제 설명
+▶︎ 문제 설명
 -------
 
 - 스트리밍 사이트에서 장르 별로 가장 많이 재생된 노래를 두 개씩 모아 베스트 앨범을 출시하려 합니다.
@@ -21,7 +21,7 @@ category: 'algorithm'
 
 - 베스트 앨범에 들어갈 노래의 고유 번호를 순서대로 return 하도록 solution 함수를 완성하세요.
 
-제한 사항
+▶︎ 제한 사항
 -------
 
 - genres[i]는 고유번호가 i인 노래의 장르입니다.
@@ -36,17 +36,17 @@ category: 'algorithm'
 
 - 모든 장르는 재생된 횟수가 다릅니다.
 
-입출력 예
+▶︎ 입출력 예
 -------
 
 ![](../../../assets/programmers/programmers.3.example.png)
 
-문제 풀이
+▶︎ 문제 풀이
 -------
 
 ![](../../../assets/programmers/programmers.3.solution.png)
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 

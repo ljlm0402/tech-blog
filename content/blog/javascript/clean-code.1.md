@@ -6,8 +6,13 @@ category: 'javascript'
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.0.png)
 
-#▶︎ Clean Code ?
-클린코드란 영문 그대로 깨끗한 코드를 의미한다. 그럼 과연 깨끗한 코드란 무엇일까 ?
+<center>클린코드 영문 그대로 <strong style="color:#fbc2eb">깨끗한 코드</strong>를 의미</center>
+
+
+▶︎ 클린코드...
+-----------
+
+__개인적으로 생각하는 깨끗한 코드__
 
 - 한눈에 `흐름`이 보이는 코드
 
@@ -19,14 +24,14 @@ category: 'javascript'
 
 <br />
 
-위에 네가지는 내 개인적인 생각이다. 클린코드란 딱히 정의된 내용이 존재하지는 않는다.
-그러나 개발자라면 한번쯤은 생각해 봤을 용어이며 궁극적으로 도달해야 한다고 생각한다.
-본문의 내용에는 다양한 코드가 존재한다 차이점을 비교해가며 파악해보자
+__클린코드를 명확하게 정의를 내릴수는 없다.__ <br />
+그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도달해야할 목표라고 생각한다.
 
-#▶︎ 코드를 보며...
+▶︎ 코드를 보며...
+-------------
 
 ###▸ MAGIC NUMBERS
-*   설명 할 수 없는 의미를 갖는 고유 한 값 또는 이름이 지정된 상수<br /><br />
+설명 할 수 없는 의미를 갖는 고유 한 값 또는 이름이 지정된 상수<br /><br />
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.1.befor.png)
 
@@ -34,14 +39,14 @@ category: 'javascript'
 
 <br />
 
-명확한 의미가 없는 수자를 지정합니다. 명명된 상수로 바꾸는 것이 좋습니다.
+명확한 의미가 없는 숫자를 명명된 상수로 바꾸는 것이 좋습니다.
 
-고유한 값을 갖은 변수에 주어서 `이해` 향상
+고유한 값을 갖은 값을 변수에 대입 후 변수 명을 통해 `의도` 파악 및 `이해`
 
 ---
 
 ###▸ DEEP NESTING
-*   깊게 중첩 된 코드<br /><br />
+깊게 중첩 된 코드<br /><br />
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.2.befor.png)
 
@@ -49,14 +54,14 @@ category: 'javascript'
 
 <br />
 
-코드에 중첩 루프 또는 조건문이 많이 포함되어 있으며 별도의 함수로 추출해야합니다.
+중첩 루프 또는 조건문이 많이 포함되어 있으며 별도의 함수로 추출해야합니다.
 
 filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 ---
 
 ###▸ LARGE FUNCTIONS
-*   길게 늘여 놓은 함수<br /><br />
+길게 늘여 놓은 함수<br /><br />
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.3.befor.png)
 
@@ -64,14 +69,14 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 <br />
 
-기능이나 클래스가 크면 기능보다 저하됩니다. 그러므로 함수를 쪼개야 합니다.
+기능이나 클래스가 크면 기능이 저하됩니다. 그러므로 모듈화를 통한 함수를 분리해야합니다.
 
-함수를 여러개로 `모듈화`를 통해 코드 작성
+`모듈화`를 통한 코드 작성으로 한눈에 `흐름` 파악
 
 ---
 
 ###▸ CODE REPETITION
-*   반복 코드<br /><br />
+반복되는 코드<br /><br />
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.4.befor.png)
 
@@ -86,7 +91,7 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 ---
 
 ###▸ COMPLEX EXPRESSIONS
-*   복잡한 표현<br /><br />
+복잡한 표현<br /><br />
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.5.befor.png)
 
@@ -100,7 +105,8 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 ---
 
-#▶︎ 생각 해보며...
+▶︎ 생각해 보며...
+-------------
 
 ![](../../../assets/javascript/clean-code/javascript.clean.code.6.png)
 
@@ -108,11 +114,11 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 해당 이미지는 한 기업에서 출제 했던 서면 인터뷰입니다.
 
-- function 중 어떤 코드가 더 좋은 코드라고 생각하고 그 이유를 설명하시오.
+- 두개의 fucntion 중 더 좋은 코드라고 무엇이라 생각하며 그 이유를 설명하시오.
 
 - 추가적으로 자신이 생각하는 좋은 코드를 작성해 보시오.
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 

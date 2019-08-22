@@ -6,7 +6,7 @@ category: 'javascript'
 
 ![](../../../assets/javascript/async-await/javascript.async.await.0.png)
 
-<center>ES8(ECMAScript2017) 정의된 <strong style="color:navy">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
+<center>ES8(ECMAScript2017) 정의된 <strong style="color:#fbc2eb">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
 
 ▶︎ 비동기...
 ---------
@@ -44,7 +44,7 @@ category: 'javascript'
 
 - 다음 실행 결과와 그 이유를 설명하시오.
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 

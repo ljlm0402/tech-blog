@@ -10,7 +10,7 @@ category: 'nodejs'
 
 ▶︎ 설치를 하며...
 -------------
-```sh
+```js
 
 npm install puppeteer
 
@@ -49,7 +49,7 @@ npm install puppeteer
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.5.png)
 <br /><br />
 
-▶︎ 추가적으로...
+▶︎ 추가적 으로...
 -----------
 
 `크롤링`을 세련도를 높이고자 몇 가지 모듈을 추가하였다.
@@ -85,7 +85,7 @@ npm install puppeteer
 
 3. exceljs 모듈을 통해 데이터 수집이 완료 시 Excel 저장
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 

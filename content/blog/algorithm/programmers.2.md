@@ -4,7 +4,7 @@ date: 2019-03-18 10:55:00
 category: 'algorithm'
 ---
 
-문제 설명
+▶︎ 문제 설명
 -------
 
 - 스파이들은 매일 다른 옷을 조합하여 입어 자신을 위장합니다.
@@ -17,7 +17,7 @@ category: 'algorithm'
 
 - 서로 다른 옷의 조합의 수를 return 하도록 solution 함수를 작성해주세요.
 
-제한 사항
+▶︎ 제한 사항
 -------
 
 - clothes의 각 행은 [의상의 이름, 의상의 종류]로 이루어져 있습니다.
@@ -32,17 +32,17 @@ category: 'algorithm'
 
 - 스파이는 하루에 최소 한 개의 의상은 입습니다.
 
-입출력 예
+▶︎ 입출력 예
 -------
 
 ![](../../../assets/programmers/programmers.2.example.png)
 
-문제 풀이
+▶︎ 문제 풀이
 -------
 
 ![](../../../assets/programmers/programmers.2.solution.png)
 
-#여러분의 댓글이 큰힘이 됩니다. ʕ　·ᴥʔ
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
 
 <br />
 
