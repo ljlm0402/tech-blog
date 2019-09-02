@@ -1,12 +1,12 @@
 ---
 title: ' [Sql] (👀) 7daySQL 챌린지 (👀) - Day 1 (역순 정렬하기) '
 date: 2019-09-02 12:10:00
-category: 'algorithm'
+category: 'sql'
 ---
 
 ![](../../../assets/sql/challenge/sql.challenge.logo.png)
 
-<center><strong style="color:#fbc2eb">프로그래머스에서</strong> 주최하는 SQL 문제 풀이</center>
+<center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 ## **▶︎ 문제 설명**
 

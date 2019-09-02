@@ -16,6 +16,7 @@ npm install puppeteer
 ```
 
 ## **▶︎ 기능을 살피며...**
+<br />
 
 ####▸ screenshot
 *   스크린샷을 저장한다.
@@ -23,7 +24,8 @@ npm install puppeteer
 <br />
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.1.png)
-<br /><br />
+
+<br />
 
 ####▸ pdf
 *   PDF 파일을 저장한다.
@@ -31,7 +33,8 @@ npm install puppeteer
 <br />
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.2.png)
-<br /><br />
+
+<br />
 
 ####▸ emulate devices
 *   디바이스 모드로 전환한다.
@@ -39,7 +42,8 @@ npm install puppeteer
 <br />
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.3.png)
-<br /><br />
+
+<br />
 
 ####▸ setCookie
 *   쿠키를 설정한다.
@@ -47,7 +51,8 @@ npm install puppeteer
 <br />
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.4.png)
-<br /><br />
+
+<br />
 
 ####▸ tracing
 *   접속 브라우저 정보를 추적한다.
@@ -55,7 +60,8 @@ npm install puppeteer
 <br />  
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.5.png)
-<br /><br />
+
+<br />
 
 **[⬆ 상단으로](#︎-기능을-살피며)**
 
@@ -75,10 +81,6 @@ npm install puppeteer
 
 **▸ readline-sync**
 -   콘솔 입력 모듈
-
-<br />
-
-다음은 앞서 말한 세 가지 모듈을 활용하여 소스를 작성 해보았다.
 
 <br />
 
@@ -104,6 +106,6 @@ npm install puppeteer
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/crawling/blob/master/2.%20search/naver.js" target="_blank">https://github.com/bynodejs/crawling/blob/master/2.%20search/naver.js</a>
+> <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

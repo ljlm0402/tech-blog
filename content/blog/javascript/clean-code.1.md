@@ -1,5 +1,5 @@
 ---
-title: ' [Javasciprt] Clean Code - 1탄 '
+title: ' [Javascript] Clean Code - 1탄 '
 date: 2019-08-22 14:10:12
 category: 'javascript'
 ---
@@ -122,7 +122,7 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 <br />
 
-해당 이미지는 한 기업에서 출제 했던 서면 인터뷰입니다.
+한 기업에서 출제 했던 서면 인터뷰 코드입니다.
 
 - 두개의 fucntion 중 더 좋은 코드라고 무엇이라 생각하며 그 이유를 설명하시오.
 
