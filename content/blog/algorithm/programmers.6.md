@@ -4,7 +4,13 @@ date: 2019-03-20 16:30:00
 category: 'algorithm'
 ---
 
-## **▶︎ 문제 설명**
+## **💎 목차**
+  * [문제 설명 (Problem)](#-문제-설명)
+  * [제한 사항 (Limitations)](#-제한-사항)
+  * [입출력 예 (Example)](#-입출력-예)
+  * [문제 풀이 (Solution)](#-문제-풀이)
+
+## **📕 문제 설명**
 
 - 여러 개의 쇠막대기를 레이저로 절단하려고 합니다.
 
@@ -42,21 +48,39 @@ category: 'algorithm'
 
 - 잘린 쇠막대기 조각의 총 개수를 return 하도록 solution 함수를 작성해주세요.
 
-## **▶︎ 제한 사항**
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **🔖 제한 사항**
 
 - arrangement의 길이는 최대 100,000입니다.
 
 - arrangement의 여는 괄호와 닫는 괄호는 항상 쌍을 이룹니다.
 
-## **▶︎ 입출력 예**
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📙 입출력 예**
 
 ![](../../../assets/algorithm/programmers/programmers.6.example.png)
+<br />
 
-## **▶︎ 문제 풀이**
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📘 문제 풀이**
 
 ![](../../../assets/algorithm/programmers/programmers.6.solution.png)
-
 <br />
+
+**[⬆ 목차](#-목차)**
 
 ---
 

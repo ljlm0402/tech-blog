@@ -8,7 +8,12 @@ category: 'sql'
 
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
-## **▶︎ 문제 설명**
+## **💎 목차**
+  * [문제 설명 (Problem)](#-문제-설명)
+  * [입출력 예 (Example)](#-입출력-예)
+  * [문제 풀이 (Solution)](#-문제-풀이)
+
+## **📕 문제 설명**
 
 - `ANIMAL_INS` 테이블은 동물 보호소에 들어온 동물의 정보를 담은 테이블입니다.
 
@@ -29,7 +34,13 @@ category: 'sql'
 
 - 동물 보호소에 들어온 모든 동물의 정보를 ANIMAL_ID순으로 조회하는 SQL문을 작성해주세요.
 
-## **▶︎ 입출력 예**
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📙 입출력 예**
 
 | ANIMAL_ID | ANMAIL_TYPE |      DATETIME       | INTAKE_CONDITION |  NAME  | SEX\_UPON\_INTAKE |
 |:---------:|:-----------:|:-------------------:|:----------------:|:------:|:-----------------:|
@@ -38,9 +49,15 @@ category: 'sql'
 | A350375   | Cat         | 2017-03-06 15:01:00 | Normal           | Meo    | Neutered Male     |
 | A352555   | Dog         | 2014-08-08 04:20:00 | Normal           | Harley | Spayed Female     |
 
-... 이하 생략
+__... 이하 생략__
 
-## **▶︎ 문제 풀이**
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📘 문제 풀이**
 
 ```js
 
@@ -49,6 +66,8 @@ SELECT * FROM `ANIMAL_INS` ORDER BY `ANIMAL_ID`;
 ```
 
 <br />
+
+**[⬆ 목차](#-목차)**
 
 ---
 
