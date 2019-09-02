@@ -1,16 +1,15 @@
 ---
-title: ' [javasciprt] Clean Code - 1'
+title: ' [Javasciprt] Clean Code - 1탄 '
 date: 2019-08-22 14:10:12
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.0.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.logo.png)
 
 <center>클린코드 영문 그대로 <strong style="color:#fbc2eb">깨끗한 코드</strong>를 의미</center>
 
 
-▶︎ 클린코드...
------------
+## **▶︎ 클린코드...**
 
 __개인적으로 생각하는 깨끗한 코드__
 
@@ -24,18 +23,18 @@ __개인적으로 생각하는 깨끗한 코드__
 
 <br />
 
-__클린코드를 명확하게 정의를 내릴수는 없다.__ <br />
+__클린코드를 명확하게 정의를 내릴수는 없다.__
+
 그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도달해야할 목표라고 생각한다.
 
-▶︎ 코드를 보며...
--------------
+## **▶︎ 코드를 보며...**
 
 ###▸ MAGIC NUMBERS
 설명 할 수 없는 의미를 갖는 고유 한 값 또는 이름이 지정된 상수<br /><br />
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.1.befor.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.1.befor.png)
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.1.after.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.1.after.png)
 
 <br />
 
@@ -43,14 +42,16 @@ __클린코드를 명확하게 정의를 내릴수는 없다.__ <br />
 
 고유한 값을 갖은 값을 변수에 대입 후 변수 명을 통해 `의도` 파악 및 `이해`
 
+<br />
+
 ---
 
 ###▸ DEEP NESTING
 깊게 중첩 된 코드<br /><br />
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.2.befor.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.2.befor.png)
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.2.after.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.2.after.png)
 
 <br />
 
@@ -58,14 +59,16 @@ __클린코드를 명확하게 정의를 내릴수는 없다.__ <br />
 
 filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
+<br />
+
 ---
 
 ###▸ LARGE FUNCTIONS
 길게 늘여 놓은 함수<br /><br />
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.3.befor.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.3.befor.png)
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.3.after.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.3.after.png)
 
 <br />
 
@@ -73,14 +76,16 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 `모듈화`를 통한 코드 작성으로 한눈에 `흐름` 파악
 
+<br />
+
 ---
 
 ###▸ CODE REPETITION
 반복되는 코드<br /><br />
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.4.befor.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.4.befor.png)
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.4.after.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.4.after.png)
 
 <br />
 
@@ -88,14 +93,16 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 의도가 `분명한` 함수를 코드 작성
 
+<br />
+
 ---
 
 ###▸ COMPLEX EXPRESSIONS
 복잡한 표현<br /><br />
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.5.befor.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.5.befor.png)
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.5.after.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.5.after.png)
 
 <br />
 
@@ -103,12 +110,15 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 `모듈화`가 되어있는 메소드를 사용하여 `한눈`에 코드를 파악
 
+<br />
+
+**[⬆ 상단으로](#︎-코드를-보며)**
+
 ---
 
-▶︎ 생각해 보며...
--------------
+## **▶︎ 생각해 보며...**
 
-![](../../../assets/javascript/clean-code/javascript.clean.code.6.png)
+![](../../../assets/javascript/clean-code/1/javascript.clean.code.6.png)
 
 <br />
 
@@ -118,10 +128,14 @@ filter 함수를 통해 간결한 코드로 한눈에 `흐름` 파악
 
 - 추가적으로 자신이 생각하는 좋은 코드를 작성해 보시오.
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+<br />
+
+---
 
 <br />
 
-> 출처  
+> 출처
+>
 > <a href="https://www.youtube.com/watch?v=Fevz-Kb4bxc" target="_blank">https://www.youtube.com/watch?v=Fevz-Kb4bxc</a>
-> <a href="https://github.com/bynodejs/study/blob/master/javascript/clean_code.js" target="_blank">https://github.com/bynodejs/study/blob/master/javascript/clean_code.js</a>
+
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

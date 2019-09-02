@@ -1,11 +1,10 @@
 ---
-title: ' [알고리즘] 프로젝트 오일러 - 8'
+title: ' [Algorithm] 프로젝트 오일러 - 자리의 곱이 가장 큰 값 '
 date: 2019-04-27 18:28:23
 category: 'algorithm'
 ---
 
-▶︎ 문제 설명
--------
+## **▶︎ 문제 설명**
 
 - 다음은 연속된 1000자리 숫자입니다.
 
@@ -32,28 +31,31 @@ category: 'algorithm'
 
 - 위에서 n자리 만큼씩 잘라 구해지는 숫자들 중 각 자리의 곱이 가장 큰 값을 구하시오.
 
-▶︎ 제한 사항
--------
+## **▶︎ 제한 사항**
 
 - n은 1000보다 클 수 없습니다.
 
-▶︎ 입출력 예
--------
+## **▶︎ 입출력 예**
+
 ```js
 
-Input n = 4
-Output 5832 // 9 * 9 * 8 * 9 = 5832
+Input : 4
+Output : 5832 // 9 * 9 * 8 * 9 = 5832
 
 ```
 
-▶︎ 문제 풀이
--------
+## **▶︎ 문제 풀이**
 
-![](../../../assets/euler/euler.8.solution.png)
+![](../../../assets/algorithm/euler/euler.8.solution.png)
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+<br />
+
+---
 
 <br />
 
 > 출처
+>
 > <a href="http://euler.synap.co.kr/prob_detail.php?id=8" target="_blank">http://euler.synap.co.kr/prob_detail.php?id=8</a>
+
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

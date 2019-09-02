@@ -1,11 +1,10 @@
 ---
-title: ' [알고리즘] 완주하지 못한 선수'
+title: ' [Algorithm] 프로그래머스 - 완주하지 못한 선수 '
 date: 2019-03-15 18:30:00
 category: 'algorithm'
 ---
 
-▶︎ 문제 설명
--------
+## **▶︎ 문제 설명**
 
 - 수 많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.
 
@@ -13,8 +12,7 @@ category: 'algorithm'
 
 - 완주하지 못한 선수의 이름을 return 하도록 solution 함수를 작성해주세요.
 
-▶︎ 제한 사항
--------
+## **▶︎ 제한 사항**
 
 - 마라톤 경기에 참여한 선수의 수는 1명 이상 100,000명 이하입니다.
 
@@ -24,19 +22,22 @@ category: 'algorithm'
 
 - 참가자 중에는 동명이인이 있을 수 있습니다.
 
-▶︎ 입출력 예
--------
+## **▶︎ 입출력 예**
 
-![](../../../assets/programmers/programmers.1.example.png)
+![](../../../assets/algorithm/programmers/programmers.1.example.png)
 
-▶︎ 문제 풀이
--------
+## **▶︎ 문제 풀이**
 
-![](../../../assets/programmers/programmers.1.solution.png)
+![](../../../assets/algorithm/programmers/programmers.1.solution.png)
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+<br />
+
+---
 
 <br />
 
 > 출처
+>
 > <a href="https://programmers.co.kr/learn/courses/30/lessons/42576" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/42576</a>
+
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
