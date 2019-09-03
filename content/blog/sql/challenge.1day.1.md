@@ -8,6 +8,10 @@ category: 'sql'
 
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
+<br />
+
+<center>첫 날엔 가볍게. 💪몸풀기💪 문제부터 시작해봅시다.<br />아주 기초적인 SELECT 문을 작성해보아요.</center>
+
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
   * [입출력 예 (Example)](#-입출력-예)
@@ -29,7 +33,7 @@ category: 'sql'
 | ANIMAL_TYPE        | VARCHAR(N) | FALSE    |
 | DATETIME           |  DATETIME  | FALSE    |
 | INTAKE_CONDITION   | VARCHAR(N) | FALSE    |
-| NAME               | VARCHAR(N) | FALSE    |
+| NAME               | VARCHAR(N) | TRUE     |
 | SEX\_UPON\_INTAKE  | VARCHAR(N) | FALSE    |
 
 - 동물 보호소에 들어온 모든 동물의 정보를 ANIMAL_ID순으로 조회하는 SQL문을 작성해주세요.
@@ -61,7 +65,9 @@ __... 이하 생략__
 
 ```js
 
-SELECT * FROM `ANIMAL_INS` ORDER BY `ANIMAL_ID`;
+SELECT * 
+FROM 'ANIMAL_INS'
+ORDER BY 'ANIMAL_ID'
 
 ```
 

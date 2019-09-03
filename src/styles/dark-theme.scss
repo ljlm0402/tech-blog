@@ -45,6 +45,9 @@ body.dark {
   }
 
   .thumbnail {
+    .date {
+      text-align: right;
+    }
     h3 {
       color: $dark-light-font-color;
     }
