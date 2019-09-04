@@ -1,6 +1,6 @@
 ---
-title: ' [Sql] (👀) 7daySQL 챌린지 (👀) - Day 1 (역순 정렬하기) '
-date: 2019-09-02 12:10:00
+title: ' [Sql] (👀) 7daySQL 챌린지 (👀) - Day 3 (최솟값 구하기) '
+date: 2019-09-04 10:16:00
 category: 'sql'
 ---
 
@@ -10,13 +10,13 @@ category: 'sql'
 
 <br />
 
-<center>첫 날엔 가볍게. 💪몸풀기💪 문제부터 시작해봅시다.<br />아주 기초적인 SELECT 문을 작성해보아요.</center>
+<center>보호소에 가장 먼저 들어온 동물은 누구일까요?🤔<br />테이블을 뒤져 통계를 내어봅시다.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
   * [입출력 예 (Example)](#-입출력-예)
   * [문제 풀이 (Solution)](#-문제-풀이)
-  
+
 ## **📕 문제 설명**
 
 - `ANIMAL_INS` 테이블은 동물 보호소에 들어온 동물의 정보를 담은 테이블입니다.
@@ -33,9 +33,7 @@ category: 'sql'
 
 <br />
 
-- 동물 보호소에 들어온 모든 동물의 이름과 보호 시작일을 조회하는 SQL문을 작성해주세요.
-
-- 이때 결과는 `ANIMAL_ID` __역순__으로 보여주세요.
+- 동물 보호소에 가장 먼저 들어온 동물은 언제 들어왔는지 조회하는 SQL 문을 작성해주세요.
 
 <br />
 
@@ -45,9 +43,15 @@ category: 'sql'
 
 ## **📙 입출력 예**
 
-![](../../../assets/sql/challenge/sql.challenge.example.2.png)
+- 예를 들어 `ANIMAL_INS` 테이블이 다음과 같다면
 
-__... 이하 생략__
+![](../../../assets/sql/challenge/sql.challenge.example.7.png)
+
+- 가장 먼저 들어온 동물은 `Jack`이고, `2013-10-14 15:38:00`에 들어왔습니다.
+
+- 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
+
+![](../../../assets/sql/challenge/sql.challenge.example.8.png)
 
 <br />
 
@@ -59,9 +63,8 @@ __... 이하 생략__
 
 ```js
 
-SELECT 'NAME', 'DATETIME'
+SELECT MIN('ANIMAL_ID')
 FROM 'ANIMAL_INS'
-ORDER BY 'ANIMAL_ID' DESC;
 
 ```
 
@@ -75,6 +78,6 @@ ORDER BY 'ANIMAL_ID' DESC;
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59035" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/59035</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59036" target="_blank">https://programmers.co.kr/learn/courses/30/lessons/59036</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
