@@ -1,5 +1,5 @@
 ---
-title: ' [Node.js] Puppeteer를 활용한 크롤링 '
+title: ' [Node.js] Crawling 👣 ▻ Puppeteer'
 date: 2019-08-21 20:38:00
 category: 'nodejs'
 ---
@@ -93,6 +93,6 @@ npm install puppeteer
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/crawling" target="_blank">https://github.com/bynodejs/crawling</a>
+> <a href="https://github.com/bynodejs/crawling" target="_blank">github > crawling</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

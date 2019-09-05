@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] Clean Code - 2탄 '
+title: ' [Javascript] Clean Code 🛁 ▻ 2탄 '
 date: 2019-08-23 21:10:12
 category: 'javascript'
 ---
@@ -496,7 +496,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 
 > 출처
 >
-> <a href="https://github.com/qkraudghgh/clean-code-javascript-ko" target="_blank">https://github.com/qkraudghgh/clean-code-javascript-ko</a>
-> <a href="https://github.com/bytypescript/refactoring-example" target="_blank">https://github.com/bytypescript/refactoring-example</a>
+> <a href="https://github.com/qkraudghgh/clean-code-javascript-ko" target="_blank">github > clean-code-javascript-ko</a><br />
+> <a href="https://github.com/bytypescript/refactoring-example" target="_blank">github > refactoring-example</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

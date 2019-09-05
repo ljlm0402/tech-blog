@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] Clean Code - 1탄 '
+title: ' [Javascript] Clean Code 🛁 ▻ 1탄 '
 date: 2019-08-22 14:10:12
 category: 'javascript'
 ---
@@ -123,6 +123,6 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 > 출처
 >
-> <a href="https://www.youtube.com/watch?v=Fevz-Kb4bxc" target="_blank">https://www.youtube.com/watch?v=Fevz-Kb4bxc</a>
+> <a href="https://www.youtube.com/watch?v=Fevz-Kb4bxc" target="_blank">youtube > Clean Code - JavaScript</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

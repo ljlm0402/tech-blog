@@ -61,6 +61,6 @@ __결과 : `1 2 3 4 5`__
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">https://github.com/bynodejs/study/blob/master/javascript/async_await.js</a>
+> <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">github > async_await</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

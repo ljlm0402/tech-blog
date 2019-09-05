@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] Design Pateern - 객체 생성 패턴 '
+title: ' [Javascript] Design Pateern 💠 ▻ 객체 생성 패턴 '
 date: 2019-09-04 10:52:15
 category: 'javascript'
 ---
@@ -32,7 +32,11 @@ category: 'javascript'
 * 이 패턴의 단점은 다음과 같다.
     1. 모든 변수와 함수에 접두어를 붙이므로, 전체 코드량이 길어져 파일의 크기가 증가
     2. 전역 인스턴스가 1개이기 때문에 부분이 수정되면 다른 전역 인스턴스도 모두 수정
-    3. 이름이 길어지므로, 프로퍼티 판별을 위한 검색작업이 오래걸린다. `샌드박스 패턴`으로 해결 가능
+    3. 이름이 길어지므로, 프로퍼티 판별을 위한 검색작업이 오래걸린다. 
+    
+    <br />
+    
+    __`샌드박스 패턴`으로 해결 가능__
 
 <br />
 
@@ -124,6 +128,6 @@ category: 'javascript'
 
 > 출처
 >
-> <a href="https://joshua1988.github.io/web-development/javascript/javascript-pattern-object/" target="_blank">https://joshua1988.github.io/web-development/javascript/javascript-pattern-object/</a>
+> <a href="https://joshua1988.github.io/web-development/javascript/javascript-pattern-object/" target="_blank">CAPTAIN PANGYO > javascript-pattern-object</a>
 
 #여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

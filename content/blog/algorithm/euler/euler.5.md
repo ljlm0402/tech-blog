@@ -1,0 +1,55 @@
+---
+title: ' [알고리즘] 프로젝트 오일러 - 최대 공약수, 최소 공배수 '
+date: 2019-04-24 17:33:02
+category: 'algorithm'
+---
+
+## **💎 목차**
+  * [문제 설명 (Problem)](#-문제-설명)
+  * [입출력 예 (Example)](#-입출력-예)
+  * [문제 풀이 (Solution)](#-문제-풀이)
+
+## **📕 문제 설명**
+
+- 자연수 n, m의 `최대 공약수`와 `최소 공배수`를 구하시오.
+
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📙 입출력 예**
+
+```js
+
+Input : n = 2, m = 5
+Output : [1, 10]
+
+Input : n = 3, m = 7
+Output : [1, 21]
+
+```
+
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+## **📘 문제 풀이**
+
+![](../../../../assets/algorithm/euler/euler.5.solution.png)
+<br />
+
+**[⬆ 목차](#-목차)**
+
+---
+
+<br />
+
+> 출처
+>
+> <a href="http://euler.synap.co.kr/prob_detail.php?id=5" target="_blank">Project Euler > Problem 5</a>
+
+#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
