@@ -51,6 +51,8 @@ category: 'algorithm'
 
 - 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
 
+<br />
+
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.5-2.example.png)
 <br />
 
@@ -62,7 +64,7 @@ category: 'algorithm'
 
 ```js
 
-SELECT MIN('ANIMAL_ID')
+SELECT MIN('DATETIME') AS '시간'
 FROM 'ANIMAL_INS'
 
 ```

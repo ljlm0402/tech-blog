@@ -32,9 +32,9 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.table.png)
 <br />
 
-- 도물 보호소에 들어온 동물 중 고양이와 개가 각각 몇 마리인지 조회하는 SQL문을 작성해주세요.
+- 동물 보호소에 들어온 동물 중 고양이와 개가 각각 몇 마리인지 조회하는 SQL문을 작성해주세요.
 
--   이때 고양이가 개보다 먼저 조회해주세요.
+- 이때 `고양이`가 `개`보다 __먼저__ 조회해주세요.
 
 <br />
 
@@ -49,9 +49,11 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.7-1.example.png)
 <br />
 
-- 고양이는 2마리, 개는 1마리 들어왔습니다.
+- `고양이`는 2마리, `개`는 1마리 들어왔습니다.
 
 - 따라서 SQL문을 실행하면 다음과 같이 출력되어야 합니다.
+
+<br />
 
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.7-2.example.png)
 <br />
@@ -64,7 +66,7 @@ category: 'algorithm'
 
 ```js
 
-SELECT 'ANIMAL_TYPE', COUNT('ANIMAL_TYPE')
+SELECT 'ANIMAL_TYPE', COUNT('ANIMAL_TYPE') AS 'count'
 FROM 'ANIMAL_INS'
 GROUP BY 'ANIMAL_TYPE'
 

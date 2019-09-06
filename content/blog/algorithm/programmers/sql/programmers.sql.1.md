@@ -32,7 +32,7 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.table.png)
 <br />
 
-- 동물 보호소에 들어온 모든 동물의 정보를 `ANIMAL_ID`순으로 조회하는 SQL문을 작성해주세요.
+- 동물 보호소에 들어온 모든 동물의 정보를 `ANIMAL_ID` __순__으로 조회하는 SQL문을 작성해주세요.
 
 <br />
 

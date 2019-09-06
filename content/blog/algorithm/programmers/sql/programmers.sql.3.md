@@ -34,7 +34,7 @@ category: 'algorithm'
 
 - 동물 보호소에 들어온 동물 중 아픈 동물의 아이디와 이름을 조회하는 SQL 문을 작성해주세요.
 
-- 이때 결과는 아이디 순으로 조회해주세요.
+- 이때 결과는 `ANIMAL_ID` __순__으로 조회해주세요.
 
 <br />
 
@@ -53,6 +53,8 @@ category: 'algorithm'
 
 - 따라서 SQL문을 실행하면 다음과 같이 나와야 합니다.
 
+<br />
+
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.3-2.example.png)
 <br />
 
@@ -69,6 +71,7 @@ category: 'algorithm'
 SELECT 'ANIMAL_ID', 'NAME'
 FROM 'ANIMAL_INS'
 WHERE 'INTAKE_CONDITION' = 'Sick'
+ORDER BY 'ANIMAL_ID'
 
 ```
 

@@ -34,7 +34,7 @@ category: 'algorithm'
 
 - 동물 보호소에 들어온 동물 중, 이름이 없는 채로 들어온 동물의 ID를 조회하는 SQL 문을 작성해주세요.
 
-- 단, ID는 오름차순 정렬되어야 합니다.
+- 단, `ANIMAL_ID`는 __오름차순__ 정렬되어야 합니다.
 
 <br />
 
@@ -52,6 +52,8 @@ category: 'algorithm'
 - 이름이 없는 채로 들어온 동물 ID는 `A434523`와 `A562649`입니다.
 
 - 따라서 SQL문을 실행하면 다음과 같이 출력되어야 합니다.
+
+<br />
 
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.6-2.example.png)
 <br />

@@ -32,9 +32,9 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.table.png)
 <br />
 
-- 동물 보호소에 들어온 동물 이름 중 두번 이상 쓰인 이름과 해당 이름이 쓰인 횟수를 조회하는 SQL문을 작성해주세요.
+- 동물 보호소에 들어온 동물 이름 중 `두번 이상 쓰인 이름`과 해당 `이름이 쓰인 횟수`를 조회하는 SQL문을 작성해주세요.
 
-- 이때 결과는 이름이 없는 동물은 집계에서 제외하며, 결과는 이름 순으로 조회해주세요.
+- 이때 결과는 `이름이 없는 동물은 집계`에서 __제외__하며, 결과는 `NAME` __순__으로 조회해주세요.
 
 <br />
 
@@ -49,9 +49,11 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.8-1.example.png)
 <br />
 
-- Raven 2번, Lucy 3번, Shadow 1번 이름이 쓰였습니다.
+- `Raven` 2번, `Lucy` 3번, `Shadow` 1번 이름이 쓰였습니다.
 
 - 따라서 SQL문을 실행하면 다음과 같이 출력되어야 합니다.
+
+<br />
 
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.8-2.example.png)
 <br />
@@ -64,7 +66,7 @@ category: 'algorithm'
 
 ```js
 
-SELECT 'NAME', COUNT('NAME')
+SELECT 'NAME', COUNT('NAME') AS 'COUNT'
 FROM 'ANIMAL_INS'
 GROUP BY 'NAME'
 HAVING COUNT('NAME') > 1
