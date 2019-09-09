@@ -49,4 +49,4 @@ Output : 2640 // 3025 - 385 = 2640
 >
 > <a href="http://euler.synap.co.kr/prob_detail.php?id=6" target="_blank">Project Euler > Problem 6</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

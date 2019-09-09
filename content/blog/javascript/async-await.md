@@ -13,7 +13,7 @@ category: 'javascript'
   * [해답 (Solution)](#-해답을-보며)
   * [실습 (Practice)](#-실습을-하며)
 
-## **📕 문제를 보며...**
+## **📕 문제를 보며**
 
 ![](../../../assets/javascript/async-await/javascript.async.await.1.png)
 
@@ -27,7 +27,7 @@ __결과 : `1 3 5 2 4`__
 
 ---
 
-## **📘 해답을 보며...**
+## **📘 해답을 보며**
 
 ![](../../../assets/javascript/async-await/javascript.async.await.2.png)
 
@@ -43,7 +43,7 @@ __결과 : `1 2 3 4 5`__
 
 ---
 
-## **📗 실습을 하며...**
+## **📗 실습을 하며**
 
 ![](../../../assets/javascript/async-await/javascript.async.await.3.png)
 
@@ -63,4 +63,4 @@ __결과 : `1 2 3 4 5`__
 >
 > <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">github > async_await</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

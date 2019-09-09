@@ -10,10 +10,10 @@ category: 'javascript'
 
 ## **💎 목차**
   * [클린코드](#-클린코드)
-  * [코드를 보며...](#-코드를-보며)
-  * [생각 해보며...](#-생각해-보며)
+  * [코드를 보며](#-코드를-보며)
+  * [생각 해보며](#-생각해-보며)
 
-## **🛁 클린코드...**
+## **🛁 클린코드**
 
 __클린코드 2탄 입니다__
 
@@ -31,7 +31,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 
 ---
 
-## **😳 코드를 보며...**
+## **😳 코드를 보며**
 
 ### **▸ 변수(Variables)**
 <br />
@@ -464,7 +464,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 
 ---
 
-## **🤔 생각해 보며...**
+## **🤔 생각해 보며**
 
 ### main.ts
 ![](../../../assets/javascript/clean-code/2/javascript.clean.code.47.png)
@@ -499,4 +499,4 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 > <a href="https://github.com/qkraudghgh/clean-code-javascript-ko" target="_blank">github > clean-code-javascript-ko</a><br />
 > <a href="https://github.com/bytypescript/refactoring-example" target="_blank">github > refactoring-example</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

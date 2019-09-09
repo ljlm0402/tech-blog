@@ -49,4 +49,4 @@ Output : 23 // 3 + 5 + 6 + 9 = 23
 >
 > <a href="http://euler.synap.co.kr/prob_detail.php?id=1" target="_blank">Project Euler > Problem 1</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

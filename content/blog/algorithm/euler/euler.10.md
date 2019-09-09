@@ -49,4 +49,4 @@ Output : 17 // 2 + 3 + 5 + 7 = 17
 >
 > <a href="http://euler.synap.co.kr/prob_detail.php?id=10" target="_blank">Project Euler > Problem 10</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

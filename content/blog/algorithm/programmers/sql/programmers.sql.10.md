@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] (👀) 7daySQL 챌린지 (👀) - Day 5 (있었는데요 없었습니다) '
+title: ' [알고리즘] 프로그래머스 - 있었는데요 없었습니다 '
 date: 2019-09-06 11:00:00
 category: 'algorithm'
 ---
@@ -9,8 +9,6 @@ category: 'algorithm'
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 <br />
-
-<center>의미 있는 데이터를 뽑으려면 테이블을 여러 개 쓸 줄 알아야 하죠.<br />서브 쿼리와 JOIN문은 어떻게 쓰는 건지 알아봅시다.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
@@ -104,6 +102,6 @@ ORDER BY 'I.DATETIME'
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59043" target="_blank">코딩테스트 연습 > SQL > 있었는데요 없었습니다</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59043" target="_blank">코딩테스트 연습 > JOIN > 있었는데요 없었습니다</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

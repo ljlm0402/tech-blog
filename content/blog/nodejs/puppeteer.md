@@ -9,44 +9,44 @@ category: 'nodejs'
 <center><strong style="color:#fbc2eb">Headless Chrome</strong>을 쉽게 사용할 수 있는 node.js 라이브러리이다.</center>
 
 ## **💎 목차**
-  * [설치를 하며...](#︎-설치를-하며)
-  * [코드를 보며...](#-코드를-보며)
-  * [생각 해보며...](#-생각해-보며)
+  * [설치를 하며](#︎-설치를-하며)
+  * [코드를 보며](#-코드를-보며)
+  * [생각 해보며](#-생각해-보며)
 
-## **⚙️ 설치를 하며...**
+## **⚙️ 설치를 하며**
 ```js
 
 npm install puppeteer
 
 ```
 
-## **😳 코드를 보며...**
+## **😳 코드를 보며**
 
-###▸ screenshot
+### ▸ screenshot
 *   스크린샷을 저장한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.1.png)
 <br />
 
-###▸ pdf
+### ▸ pdf
 *   PDF 파일을 저장한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.2.png)
 <br />
 
-###▸ emulate devices
+### ▸ emulate devices
 *   디바이스 모드로 전환한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.3.png)
 <br />
 
-###▸ setCookie
+### ▸ setCookie
 *   쿠키를 설정한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.4.png)
 <br />
 
-###▸ tracing
+### ▸ tracing
 *   접속 브라우저 정보를 추적한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.5.png)
@@ -56,7 +56,7 @@ npm install puppeteer
 
 ---
 
-## **🤔 생각해 보며...**
+## **🤔 생각해 보며**
 
 `완성도`와 `세련도`를 높이고자 몇 가지 모듈을 추가해보자.
 
@@ -95,4 +95,4 @@ npm install puppeteer
 >
 > <a href="https://github.com/bynodejs/crawling" target="_blank">github > crawling</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

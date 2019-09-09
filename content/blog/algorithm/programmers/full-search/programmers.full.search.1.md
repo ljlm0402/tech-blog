@@ -81,4 +81,4 @@ category: 'algorithm'
 >
 > <a href="https://programmers.co.kr/learn/courses/30/lessons/42840" target="_blank">코딩테스트 연습 > 완전탐색 > 모의고사</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

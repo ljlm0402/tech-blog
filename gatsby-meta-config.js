@@ -1,9 +1,9 @@
 module.exports = {
-  title: `경민, 블로그...`,
+  title: `경민, 블로그`,
   description: `Develop Blog`,
   author: `[AGUMON]`,
   introduction: `경민이의 기술 블로그`,
-  siteUrl: `https://adoring-aryabhata-03df5a.netlify.com/`, // Your blog site url
+  siteUrl: `https://ljlm0402.netlify.com/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `https://github.com/ljlm0402`, // Your GitHub account

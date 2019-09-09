@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] (👀) 7daySQL 챌린지 (👀) - Day 3 (이름이 없는 동물의 아이디) '
+title: ' [알고리즘] 프로그래머스 - 이름이 없는 동물의 아이디 '
 date: 2019-09-04 10:25:00
 category: 'algorithm'
 ---
@@ -9,8 +9,6 @@ category: 'algorithm'
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 <br />
- 
-<center>보호소에 가장 먼저 들어온 동물은 누구일까요?🤔<br />테이블을 뒤져 통계를 내어봅시다.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
@@ -83,6 +81,6 @@ ORDER BY 'ANIMAL_ID'
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59039" target="_blank">코딩테스트 연습 > SQL > 이름이 없는 동물의 아이디</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59039" target="_blank">코딩테스트 연습 > IS NULL > 이름이 없는 동물의 아이디</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

@@ -8,9 +8,9 @@ category: 'javascript'
 
 ## **💎 목차**
   * [디자인패턴](#-디자인패턴)
-  * [코드를 보며...](#-코드를-보며)
+  * [코드를 보며](#-코드를-보며)
 
-## **디자인패턴...**
+## **디자인패턴**
 
 - 프로그래밍을 하다보면 유사한 상황을 자주 만나게 됩니다.
 
@@ -20,9 +20,9 @@ category: 'javascript'
 
 **[⬆ 목차](#-목차)**
 
-## **😳 코드를 보며...**
+## **😳 코드를 보며**
 
-###▸ 싱글톤 패턴
+### ▸ 싱글톤 패턴
 *   싱글톤 패턴은 `특정 클래스`의 객체를 한개만 유지하는 패턴이다.
 *   자바스크립트에서는 이미 객체 리터럴을 이요한 객체 생성 방법이 싱글톤 패턴과 동일하다.
 
@@ -31,7 +31,7 @@ category: 'javascript'
 
 ---
 
-###▸ 팩토리 패턴
+### ▸ 팩토리 패턴
 *   비슷한 객체를 공장에서 찍어내듯이 반복적으로 생성할 수 있게 하는 패턴
 *   컴파일 시점에 구체적인 타입(클래스)을 몰라도 객체 생성이 가능하다.
 *   팩토리 패턴의 가장 흔한 사례는 `Object()`를 이용한 객체 생성시,
@@ -42,7 +42,7 @@ category: 'javascript'
 
 ---
 
-###▸ Iterator 패턴
+### ▸ Iterator 패턴
 *   객체의 내부구조가 복잡하더라도 개별 속성에 쉽게 접근하기 위한 패턴
 
 ![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.3.png)
@@ -55,7 +55,7 @@ category: 'javascript'
 
 ---
 
-###▸ Decorator 패턴
+### ▸ Decorator 패턴
 *   런타임시 객체에 동적으로 부가기능을 추가할 수 있는 패턴
 
 ![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.5.png)
@@ -73,7 +73,7 @@ category: 'javascript'
 
 ---
 
-###▸ 프록시 패턴
+### ▸ 프록시 패턴
 *   Lazy Initialization (게으른 초기화)로 어플리케이션 부하를 줄여준다.
 
 ![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.8.png)
@@ -92,7 +92,7 @@ category: 'javascript'
 
 ---
 
-###▸ Mediator 패턴
+### ▸ Mediator 패턴
 *   객체 간의 영향도 (결합도)가 높은 상태에서는 어플리케이션의 리팩토링이 예기치 않은 결과를 나을 수 있다.
 *   따라서, 결합도를 낮추기 위해 객체의 상태가 변경되면 Mediator에게 먼저 전달하고,
 *   이를 Mdeiator가 다른 객체에 전달하는 방식의 코딩이 가능하다.
@@ -102,7 +102,7 @@ category: 'javascript'
 
 ---
 
-###▸ Observer 패턴
+### ▸ Observer 패턴
 *   클라이언트 측 자바스크립트 프로그래밍에서 널리 사용되는 패턴이다.
 *   `subscriber` / `publisher` 패턴이라고도 한다.
 *   예) mouseover, keypress와 같은 브라우저 이벤트
@@ -121,4 +121,4 @@ category: 'javascript'
 >
 > <a href="https://joshua1988.github.io/web-development/javascript/javascript-pattern-design/" target="_blank">CAPTAIN PANGYO > javascript-pattern-design</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

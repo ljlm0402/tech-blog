@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] (👀) 7daySQL 챌린지 (👀) - Day 4 (고양이와 개는 몇 마리 있을까) '
+title: ' [알고리즘] 프로그래머스 - 고양이와 개는 몇 마리 있을까 '
 date: 2019-09-05 10:25:00
 category: 'algorithm'
 ---
@@ -9,8 +9,6 @@ category: 'algorithm'
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 <br />
- 
-<center>보호소에는 댕댕이🐶랑 야옹이🐱가 몇 마리 있을까요?<br />레코드를 그룹핑하고, 통계를 내 보아요.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
@@ -69,6 +67,11 @@ category: 'algorithm'
 SELECT 'ANIMAL_TYPE', COUNT('ANIMAL_TYPE') AS 'count'
 FROM 'ANIMAL_INS'
 GROUP BY 'ANIMAL_TYPE'
+ORDER BY CASE 'ANIMAL_TYPE'
+WHEN 'Cat' THEN 1
+WHEN 'Dog' THEN 2
+ELSE 3
+END
 
 ```
 
@@ -82,6 +85,6 @@ GROUP BY 'ANIMAL_TYPE'
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59040" target="_blank">코딩테스트 연습 > SQL > 고양이와 개는 몇 마리 있을까</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59040" target="_blank">코딩테스트 연습 > GROUP BY > 고양이와 개는 몇 마리 있을까</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

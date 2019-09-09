@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] (👀) 7daySQL 챌린지 (👀) - Day 2 (아픈 동물 찾기) '
+title: ' [알고리즘] 프로그래머스 - 아픈 동물 찾기 '
 date: 2019-09-03 10:20:00
 category: 'algorithm'
 ---
@@ -9,8 +9,6 @@ category: 'algorithm'
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 <br />
-
-<center>오늘도 와주셨군요. 🥰 WHERE 절을 준비해두었습니다.<br />꼭 화요일 안에 문제를 풀어주세요.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
@@ -85,6 +83,6 @@ ORDER BY 'ANIMAL_ID'
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59036" target="_blank">코딩테스트 연습 > SQL > 아픈 동물 찾기</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59036" target="_blank">코딩테스트 연습 > SELECT > 아픈 동물 찾기</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

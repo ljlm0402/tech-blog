@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] (👀) 7daySQL 챌린지 (👀) - Day 1 (모든 레코드 조회하기) '
+title: ' [알고리즘] 프로그래머스 - 모든 레코드 조회하기 '
 date: 2019-09-02 11:50:00
 category: 'algorithm'
 ---
@@ -9,8 +9,6 @@ category: 'algorithm'
 <center><strong style="color:#fbc2eb">프로그래머스</strong>에서 주최하는 SQL 문제 풀이</center>
 
 <br />
-
-<center>첫 날엔 가볍게. 💪몸풀기💪 문제부터 시작해봅시다.<br />아주 기초적인 SELECT 문을 작성해보아요.</center>
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)
@@ -45,10 +43,6 @@ category: 'algorithm'
 ![](../../../../../assets/algorithm/programmers/sql/programmers.sql.1.example.png)
 <br />
 
-__... 이하 생략__
-
-<br />
-
 **[⬆ 목차](#-목차)**
 
 ---
@@ -73,6 +67,6 @@ ORDER BY 'ANIMAL_ID'
 
 > 출처
 >
-> <a href="https://programmers.co.kr/learn/courses/30/lessons/59034" target="_blank">코딩테스트 연습 > SQL > 모든 레코드 조회하기</a>
+> <a href="https://programmers.co.kr/learn/courses/30/lessons/59034" target="_blank">코딩테스트 연습 > SELECT > 모든 레코드 조회하기</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

@@ -8,9 +8,9 @@ category: 'javascript'
 
 ## **💎 목차**
   * [디자인패턴](#-디자인패턴)
-  * [코드를 보며...](#-코드를-보며)
+  * [코드를 보며](#-코드를-보며)
 
-## **디자인패턴...**
+## **디자인패턴**
 
 - 프로그래밍을 하다보면 유사한 상황을 자주 만나게 됩니다.
 
@@ -20,9 +20,9 @@ category: 'javascript'
 
 **[⬆ 목차](#-목차)**
 
-## **😳 코드를 보며...**
+## **😳 코드를 보며**
 
-###▸ DOM 접근
+### ▸ DOM 접근
 *   DOM 접근은 최소화 한다.
 *   반복문 내에서 DOM 접근은 피한다.
 
@@ -41,7 +41,7 @@ category: 'javascript'
 
 ---
 
-###▸ DOM 조작
+### ▸ DOM 조작
 *   DOM 업데이트는 최소화 하는 것이 좋다.
 *   업데이트시에 화면을 `repaint` 하고, 엘리먼트를 `reflow` 하는데 많은 비용이 발생한다.
 *   서브트리를 추가할 시에는 서브 트리의 구성요소를 모두 생성한 후에 마지막에 한번만 추가해준다.
@@ -56,7 +56,7 @@ category: 'javascript'
 
 ---
 
-###▸ 이벤트
+### ▸ 이벤트
 *   이벤트 리스너는 아래와 같이 구현할 수 있다.
 
 ![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.5.png)
@@ -68,7 +68,7 @@ category: 'javascript'
 
 ---
 
-###▸ XMLHttpRequest
+### ▸ XMLHttpRequest
 *   자바스크립트에서 HTTP 요청을 생성하는 특별한 객체 (생성자 함수)
 *   생성과정은 아래와 같다.
 
@@ -89,7 +89,7 @@ category: 'javascript'
 
 ---
 
-###▸ JSONP
+### ▸ JSONP
 *   JSON with padding
 *   브라우저의 동일 도메인 정책의 제약을 받지 않는다.
 *   JSONP의 요청 URL 형태
@@ -111,7 +111,7 @@ http://example.org/getdata.php?callback=myHandler
 
 ---
 
-###▸ 웹 페이지 로딩 전략
+### ▸ 웹 페이지 로딩 전략
 *   script 태그에 들어가는 엘리멘트를 살펴보자
     *   `<script type='text/javascript'>` => HTML5에서는 필수 속성이 아니다.
     *   마크업 유효성 검사를 위한 경우가 아니라면 사용하지 않는다.
@@ -129,4 +129,4 @@ http://example.org/getdata.php?callback=myHandler
 >
 > <a href="https://joshua1988.github.io/web-development/javascript/javascript-pattern-dom-browser/" target="_blank">CAPTAIN PANGYO > javascript-pattern-dom-browser</a>
 
-#여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
