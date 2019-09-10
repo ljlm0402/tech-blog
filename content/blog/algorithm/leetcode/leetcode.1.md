@@ -1,8 +1,14 @@
 ---
-title: ' [알고리즘] LeetCode - TwoSum '
+title: ' [Algorithm] LeetCode - TwoSum '
 date: 2019-08-30 18:57:00
 category: 'algorithm'
 ---
+
+![](../../../../assets/algorithm/algorithm.logo.png)
+
+<center><strong>어떠한 문제를 해결하기 위해 정해진 절차나 방법을 공식화</strong></center>
+
+<br />
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)

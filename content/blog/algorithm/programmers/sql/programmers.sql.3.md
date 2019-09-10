@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 아픈 동물 찾기 '
+title: ' [Algorithm] 프로그래머스 - 아픈 동물 찾기 '
 date: 2019-09-03 10:20:00
 category: 'algorithm'
 ---

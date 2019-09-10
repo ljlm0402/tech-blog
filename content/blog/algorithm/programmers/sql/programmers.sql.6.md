@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 이름이 없는 동물의 아이디 '
+title: ' [Algorithm] 프로그래머스 - 이름이 없는 동물의 아이디 '
 date: 2019-09-04 10:25:00
 category: 'algorithm'
 ---

@@ -1,15 +1,15 @@
 ---
-title: ' [Node.js] Crawling 👣 ▻ Puppeteer'
+title: ' [Node Js] Crawling 👣 ▻ puppeteer'
 date: 2019-08-21 20:38:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.0.png)
+![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.logo.png)
   
 <center><strong style="color:#fbc2eb">Headless Chrome</strong>을 쉽게 사용할 수 있는 node.js 라이브러리이다.</center>
 
 ## **💎 목차**
-  * [설치를 하며](#︎-설치를-하며)
+  * [설치를 하며](#-설치를-하며)
   * [코드를 보며](#-코드를-보며)
   * [생각 해보며](#-생각해-보며)
 
@@ -60,16 +60,19 @@ npm install puppeteer
 
 `완성도`와 `세련도`를 높이고자 몇 가지 모듈을 추가해보자.
 
-### **▸ cheerio**
--   HTML DOM Element 접근에 용이한 모듈
-<br />
+```js
 
-### **▸ exceljs**
--   Excel 파일 생성 모듈
-<br />
+// HTML DOM Element 접근에 용이한 모듈
+npm install cheerio
 
-### **▸ readline-sync**
--   콘솔 입력 모듈
+// Excel 파일 생성 모듈
+npm install exceljs
+
+// 콘솔 입력 모듈
+npm install readline-sync
+
+```
+
 <br />
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.6.png)

@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 역순 정렬하기 '
+title: ' [Algorithm] 프로그래머스 - 역순 정렬하기 '
 date: 2019-09-02 12:10:00
 category: 'algorithm'
 ---

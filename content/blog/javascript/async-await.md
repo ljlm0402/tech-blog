@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] async / await'
+title: ' [JavaScript] async / await'
 date: 2019-08-22 11:08:60
 category: 'javascript'
 ---
@@ -58,9 +58,5 @@ __결과 : `1 2 3 4 5`__
 ---
 
 <br />
-
-> 출처
->
-> <a href="https://github.com/bynodejs/study/blob/master/javascript/async_await.js" target="_blank">github > async_await</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

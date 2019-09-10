@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] Design Pateern 💠 ▻ 객체 생성 패턴 '
+title: ' [JavaScript] Design Pateern 💠 ▻ 객체 생성 패턴 '
 date: 2019-09-04 10:52:15
 category: 'javascript'
 ---

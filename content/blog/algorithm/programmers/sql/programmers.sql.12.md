@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 보호소에서 중성화한 동물 '
+title: ' [Algorithm] 프로그래머스 - 보호소에서 중성화한 동물 '
 date: 2019-09-07 10:32:00
 category: 'algorithm'
 ---

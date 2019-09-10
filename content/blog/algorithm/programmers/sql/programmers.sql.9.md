@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 없어진 기록 찾기 '
+title: ' [Algorithm] 프로그래머스 - 없어진 기록 찾기 '
 date: 2019-09-06 10:20:00
 category: 'algorithm'
 ---

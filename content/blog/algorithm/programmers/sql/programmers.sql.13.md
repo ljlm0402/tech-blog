@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 루시와 엘라 찾기 '
+title: ' [Algorithm] 프로그래머스 - 루시와 엘라 찾기 '
 date: 2019-09-07 10:32:00
 category: 'algorithm'
 ---

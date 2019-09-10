@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 최솟값 구하기 '
+title: ' [Algorithm] 프로그래머스 - 최솟값 구하기 '
 date: 2019-09-04 10:16:00
 category: 'algorithm'
 ---

@@ -1,8 +1,14 @@
 ---
-title: ' [알고리즘] 프로젝트 오일러 - 소수의 합 '
+title: ' [Algorithm] 프로젝트 오일러 - 소수의 합 '
 date: 2019-04-29 15:08:63
 category: 'algorithm'
 ---
+
+![](../../../../assets/algorithm/algorithm.logo.png)
+
+<center><strong>어떠한 문제를 해결하기 위해 정해진 절차나 방법을 공식화</strong></center>
+
+<br />
 
 ## **💎 목차**
   * [문제 설명 (Problem)](#-문제-설명)

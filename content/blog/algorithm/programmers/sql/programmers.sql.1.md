@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 모든 레코드 조회하기 '
+title: ' [Algorithm] 프로그래머스 - 모든 레코드 조회하기 '
 date: 2019-09-02 11:50:00
 category: 'algorithm'
 ---

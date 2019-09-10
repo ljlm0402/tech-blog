@@ -1,5 +1,5 @@
 ---
-title: ' [알고리즘] 프로그래머스 - 있었는데요 없었습니다 '
+title: ' [Algorithm] 프로그래머스 - 있었는데요 없었습니다 '
 date: 2019-09-06 11:00:00
 category: 'algorithm'
 ---

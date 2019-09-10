@@ -1,5 +1,5 @@
 ---
-title: ' [Javascript] Design Pateern 💠 ▻ DOM과 브라우저 패턴 '
+title: ' [JavaScript] Design Pateern 💠 ▻ DOM과 브라우저 패턴 '
 date: 2019-09-04 18:17:15
 category: 'javascript'
 ---

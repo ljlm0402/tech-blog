@@ -1,5 +1,5 @@
 ---
-title: ' [코딩 테스트] 카카오 블라인드 - 테스트 1 '
+title: ' [CodingTest] 카카오 블라인드 - 데모 테스트 1 '
 date: 2019-09-06 17:58:00
 category: 'codingtest'
 ---
