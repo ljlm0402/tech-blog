@@ -1,5 +1,5 @@
 ---
-title: ' [Node Js] Excel 📗 ▻ exceljs'
+title: ' [Node Js] 엑셀 📗 ▻ exceljs'
 date: 2019-09-10 15:15:00
 category: 'nodejs'
 ---
@@ -14,9 +14,10 @@ category: 'nodejs'
   * [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
-```js
 
-npm install exceljs
+```sh
+
+$ npm install exceljs
 
 ```
 
@@ -49,10 +50,10 @@ Excel 파일입니다.
 `완성도`와 `세련도`를 높이고자 모듈을 추가해보자.
 
 
-```js
+```sh
 
 // 콘솔 입력 모듈
-npm install readline-sync
+$ npm install readline-sync
 
 ```
 

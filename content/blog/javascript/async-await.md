@@ -1,5 +1,5 @@
 ---
-title: ' [JavaScript] async / await'
+title: ' [JavaScript] 비동기 처리 🚦 ▻ async / await'
 date: 2019-08-22 11:08:60
 category: 'javascript'
 ---

@@ -1,5 +1,5 @@
 ---
-title: ' [JavaScript] Design Pateern 💠 ▻ DOM과 브라우저 패턴 '
+title: ' [JavaScript] 디자인 패턴 💠 ▻ DOM과 브라우저 패턴 '
 date: 2019-09-04 18:17:15
 category: 'javascript'
 ---
@@ -96,7 +96,7 @@ category: 'javascript'
 
 <br />
 
-```js
+```sh
 
 http://example.org/getdata.php?callback=myHandler
 

@@ -1,5 +1,5 @@
 ---
-title: ' [JavaScript] Clean Code 🛁 ▻ 1탄 '
+title: ' [JavaScript] 클린 코드 🛁 ▻ 1탄 '
 date: 2019-08-22 14:10:12
 category: 'javascript'
 ---

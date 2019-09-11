@@ -1,12 +1,12 @@
 ---
-title: ' [Node Js] Crawling 👣 ▻ puppeteer'
+title: ' [Node Js] 크롤링 👣 ▻ puppeteer'
 date: 2019-08-21 20:38:00
 category: 'nodejs'
 ---
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.logo.png)
   
-<center><strong style="color:#fbc2eb">Headless Chrome</strong>을 쉽게 사용할 수 있는 node.js 라이브러리이다.</center>
+<center><strong style="color:#05D197">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
 
 ## **💎 목차**
   * [설치를 하며](#-설치를-하며)
@@ -14,9 +14,10 @@ category: 'nodejs'
   * [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
-```js
 
-npm install puppeteer
+```jssh
+
+$ npm install puppeteer
 
 ```
 
@@ -28,11 +29,15 @@ npm install puppeteer
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.1.png)
 <br />
 
+<hr>
+
 ### ▸ pdf
 *   PDF 파일을 저장한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.2.png)
 <br />
+
+<hr>
 
 ### ▸ emulate devices
 *   디바이스 모드로 전환한다.
@@ -40,11 +45,15 @@ npm install puppeteer
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.3.png)
 <br />
 
+<hr>
+
 ### ▸ setCookie
 *   쿠키를 설정한다.
 
 ![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.4.png)
 <br />
+
+<hr>
 
 ### ▸ tracing
 *   접속 브라우저 정보를 추적한다.
@@ -60,16 +69,16 @@ npm install puppeteer
 
 `완성도`와 `세련도`를 높이고자 몇 가지 모듈을 추가해보자.
 
-```js
+```sh
 
 // HTML DOM Element 접근에 용이한 모듈
-npm install cheerio
+$ npm install cheerio
 
 // Excel 파일 생성 모듈
-npm install exceljs
+$ npm install exceljs
 
 // 콘솔 입력 모듈
-npm install readline-sync
+$ npm install readline-sync
 
 ```
 

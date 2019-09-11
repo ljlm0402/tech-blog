@@ -1,5 +1,5 @@
 ---
-title: ' [JavaScript] Design Pateern 💠 ▻ 디자인 패턴 '
+title: ' [JavaScript] 디자인 패턴 💠 ▻ 디자인 패턴 '
 date: 2019-09-04 17:47:15
 category: 'javascript'
 ---
