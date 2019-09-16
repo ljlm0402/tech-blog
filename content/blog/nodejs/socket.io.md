@@ -97,7 +97,6 @@ $ npm install socket.io
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/socket.io" target="_blank">github > socket.io</a><br />
-> <a href="https://youtu.be/sz1Pb4RIWcg" target="_blank">youtube > socket.io</a>
+> <a href="https://github.com/bynodejs/socket.io" target="_blank">github > socket.io</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
