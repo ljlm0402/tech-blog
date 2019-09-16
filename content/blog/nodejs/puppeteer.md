@@ -9,7 +9,7 @@ category: 'nodejs'
 <center><strong style="color:#05D197">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
 
 ## **💎 목차**
-  * [설치를 하며](#-설치를-하며)
+  * [설치를 하며](#️-설치를-하며)
   * [코드를 보며](#-코드를-보며)
   * [생각 해보며](#-생각해-보며)
 
