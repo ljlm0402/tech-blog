@@ -4,7 +4,7 @@ date: 2019-08-21 20:38:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.logo.png)
+![](./images/puppeteer/logo.png)
   
 <center><strong style="color:#05D197">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
 
@@ -26,7 +26,7 @@ $ npm install puppeteer
 ### ▸ screenshot
 *   스크린샷을 저장한다.
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.1.png)
+![](./images/puppeteer/1.png)
 <br />
 
 <hr>
@@ -34,7 +34,7 @@ $ npm install puppeteer
 ### ▸ pdf
 *   PDF 파일을 저장한다.
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.2.png)
+![](./images/puppeteer/2.png)
 <br />
 
 <hr>
@@ -42,7 +42,7 @@ $ npm install puppeteer
 ### ▸ emulate devices
 *   디바이스 모드로 전환한다.
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.3.png)
+![](./images/puppeteer/3.png)
 <br />
 
 <hr>
@@ -50,7 +50,7 @@ $ npm install puppeteer
 ### ▸ setCookie
 *   쿠키를 설정한다.
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.4.png)
+![](./images/puppeteer/4.png)
 <br />
 
 <hr>
@@ -58,7 +58,7 @@ $ npm install puppeteer
 ### ▸ tracing
 *   접속 브라우저 정보를 추적한다.
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.5.png)
+![](./images/puppeteer/5.png)
 <br />
 
 **[⬆ 목차](#-목차)**
@@ -84,7 +84,7 @@ $ npm install readline-sync
 
 <br />
 
-![](../../../assets/nodejs/puppeteer/nodejs.puppeteer.6.png)
+![](./images/puppeteer/6.png)
 <br />
 
 해당 소스는 `네이버 맵` 크롤링 소스이다. 간략히 설명 하겠습니다.

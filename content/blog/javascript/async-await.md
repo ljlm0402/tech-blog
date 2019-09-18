@@ -4,7 +4,7 @@ date: 2019-08-22 11:08:60
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/async-await/javascript.async.await.logo.png)
+![](./images/async-await/logo.png)
 
 <center>ES8(ECMAScript2017) 정의된 <strong style="color:#fbc2eb">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
 
@@ -15,7 +15,7 @@ category: 'javascript'
 
 ## **📕 문제를 보며**
 
-![](../../../assets/javascript/async-await/javascript.async.await.1.png)
+![](./images/async-await/1.png)
 
 __결과 : `1 3 5 2 4`__
 
@@ -29,7 +29,7 @@ __결과 : `1 3 5 2 4`__
 
 ## **📘 해답을 보며**
 
-![](../../../assets/javascript/async-await/javascript.async.await.2.png)
+![](./images/async-await/2.png)
 
 __결과 : `1 2 3 4 5`__
 
@@ -45,7 +45,7 @@ __결과 : `1 2 3 4 5`__
 
 ## **📗 실습을 하며**
 
-![](../../../assets/javascript/async-await/javascript.async.await.3.png)
+![](./images/async-await/3.png)
 
 해당 이미지는 한 기업에서 출제 했던 서면 인터뷰입니다.
 

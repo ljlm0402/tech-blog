@@ -4,7 +4,7 @@ date: 2019-09-10 15:15:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/exceljs/nodejs.exceljs.logo.png)
+![](./images/exceljs/logo.png)
   
 <center><strong style="color:#3C734B">스프레드 시트</strong>을 쉽게 읽고 조작할 수 있는 라이브러리이다.</center>
 
@@ -23,7 +23,7 @@ $ npm install exceljs
 
 ## **😳 코드를 보며**
 
-![](../../../assets/nodejs/exceljs/nodejs.exceljs.1.png)
+![](./images/exceljs/1.png)
 <br />
 
 - `data`는 `Array<Object>`로 { KEY : VALUE } 구성을 하였습니다.
@@ -38,7 +38,7 @@ $ npm install exceljs
 
 Excel 파일입니다.
 
-![](../../../assets/nodejs/exceljs/nodejs.exceljs.2.png)
+![](./images/exceljs/2.png)
 <br />
 
 **[⬆ 목차](#-목차)**
@@ -59,7 +59,7 @@ $ npm install readline-sync
 
 <br />
 
-![](../../../assets/nodejs/exceljs/nodejs.exceljs.3.png)
+![](./images/exceljs/3.png)
 <br />
 
 1. `readline` 모듈을 통해 저장할 파일명 입력

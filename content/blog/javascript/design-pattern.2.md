@@ -4,7 +4,7 @@ date: 2019-09-04 17:47:15
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.logo.jpeg)
+![](./images/design-pattern/logo.jpg)
 
 ## **💎 목차**
   * [디자인패턴](#-디자인패턴)
@@ -26,7 +26,7 @@ category: 'javascript'
 *   싱글톤 패턴은 `특정 클래스`의 객체를 한개만 유지하는 패턴이다.
 *   자바스크립트에서는 이미 객체 리터럴을 이요한 객체 생성 방법이 싱글톤 패턴과 동일하다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.1.png)
+![](./images/design-pattern/2/1.png)
 <br />
 
 ---
@@ -37,7 +37,7 @@ category: 'javascript'
 *   팩토리 패턴의 가장 흔한 사례는 `Object()`를 이용한 객체 생성시,
 *   주어지는 값의 타입에 따라 `String`, `Number`, `Boolean` 등 객체가 생성되는 것이다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.2.png)
+![](./images/design-pattern/2/2.png)
 <br />
 
 ---
@@ -45,12 +45,12 @@ category: 'javascript'
 ### ▸ Iterator 패턴
 *   객체의 내부구조가 복잡하더라도 개별 속성에 쉽게 접근하기 위한 패턴
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.3.png)
+![](./images/design-pattern/2/3.png)
 <br />
 
 * 위의 agg 객체 구현방법은 아래와 같다
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.4.png)
+![](./images/design-pattern/2/4.png)
 <br />
 
 ---
@@ -58,17 +58,17 @@ category: 'javascript'
 ### ▸ Decorator 패턴
 *   런타임시 객체에 동적으로 부가기능을 추가할 수 있는 패턴
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.5.png)
+![](./images/design-pattern/2/5.png)
 <br />
 
 *   구현 예제는 다음과 같다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.6.png)
+![](./images/design-pattern/2/6.png)
 <br />
 
 *   위 `decorators()`를 아래와 같이 구현할 수 있다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.7.png)
+![](./images/design-pattern/2/7.png)
 <br />
 
 ---
@@ -76,13 +76,13 @@ category: 'javascript'
 ### ▸ 프록시 패턴
 *   Lazy Initialization (게으른 초기화)로 어플리케이션 부하를 줄여준다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.8.png)
+![](./images/design-pattern/2/8.png)
 <br />
 
 *   위와 같이 클릭 이벤트에 대해서 이벤트 핸들링이 가능하다.
 *   아래는 Proxy를 이용하여 HTTP 라운드 트립을 줄일 수 있는 코드다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.9.png)
+![](./images/design-pattern/2/9.png)
 <br />
 
 *   HTTP 요청이 50 밀리세컨이내로 일어난다면, 각각 보낼 것이 아닌 `setTimeout()`을 이용하여 요청을 잠시 보류한 후 한번에 보낸다.
@@ -97,7 +97,7 @@ category: 'javascript'
 *   따라서, 결합도를 낮추기 위해 객체의 상태가 변경되면 Mediator에게 먼저 전달하고,
 *   이를 Mdeiator가 다른 객체에 전달하는 방식의 코딩이 가능하다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.10.png)
+![](./images/design-pattern/2/10.png)
 <br />
 
 ---
@@ -108,7 +108,7 @@ category: 'javascript'
 *   예) mouseover, keypress와 같은 브라우저 이벤트
 *   이 패턴은 주요 목적은 객체간의 결합도를 낮추는 것이다.
 
-![](../../../assets/javascript/design-pattern/2/javascript.design.pattern.11.png)
+![](./images/design-pattern/2/11.png)
 <br />
 
 **[⬆ 목차](#-목차)**

@@ -4,7 +4,7 @@ date: 2019-09-16 10:50:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.logo.png)
+![](./images/nodemailer/logo.png)
 
 <center><strong style="color:#1FB674">이메일</strong> 발송을 위한 라이브러리</center>
 
@@ -25,7 +25,7 @@ $ npm install nodemailer
 
 
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.1.png)
+![](./images/nodemailer/1.example.png)
 <br />
 
 * `createTransport` 
@@ -42,7 +42,7 @@ $ npm install nodemailer
 
 __전송 결과__
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.result.1.png)
+![](./images/nodemailer/1.result.png)
 <br />
 
 <hr>
@@ -57,7 +57,7 @@ $ npm install ejs
 
 ```
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.2.png)
+![](./images/nodemailer/2.example.png)
 <br />
 
 * `ejs.renderFile`
@@ -67,7 +67,7 @@ $ npm install ejs
 
 __전송 결과__
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.result.2.png)
+![](./images/nodemailer/2.result.png)
 <br />
 
 <hr>
@@ -82,10 +82,10 @@ $ npm install html-pdf
 
 ```
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.3-1.png)
+![](./images/nodemailer/3-1.example.png)
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.3-2.png)
+![](./images/nodemailer/3-2.example.png)
 <br />
 
 * `ejs.renderFile` 결과 HtmlCode `pdf.create`로 전송
@@ -98,10 +98,10 @@ $ npm install html-pdf
 
 __전송 결과__
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.result.3-1.png)
+![](./images/nodemailer/3-1.result.png)
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.result.3-2.png)
+![](./images/nodemailer/3-2.result.png)
 <br />
 
 <hr>
@@ -118,7 +118,7 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.solution.png)
+![](./images/nodemailer/solution.png)
 <br />
 
 * 구글 계정에서 보안 수준 앱의 엑세스를 허용하면 가능하다.
@@ -134,13 +134,13 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.4-1.png)
+![](./images/nodemailer/4-1.example.png)
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.4-2.png)
+![](./images/nodemailer/4-2.example.png)
 <br />
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.example.4-3.png)
+![](./images/nodemailer/4-3.example.png)
 <br />
 
 * 데이터를 동적으로 할당 받아 html 전송한다.
@@ -149,7 +149,7 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 __전송 결과__
 
-![](../../../assets/nodejs/nodemailer/nodejs.nodemailer.result.4.png)
+![](./images/nodemailer/4.result.png)
 <br />
 
 **[⬆ 목차](#-목차)**

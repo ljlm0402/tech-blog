@@ -4,7 +4,7 @@ date: 2019-09-04 10:52:15
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.logo.jpeg)
+![](./images/design-pattern/logo.jpg)
 
 ## **💎 목차**
   * [디자인패턴](#-디자인패턴)
@@ -26,7 +26,7 @@ category: 'javascript'
 * `전역변수`의 개수를 줄이고, `변수명`이 불필요하게 길어짐을 방지한다.
 * 전역 네임스페이스 객체는 흔히 `대문자`로 선언한다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.1.png)
+![](./images/design-pattern/1/1.png)
 <br />
 
 * 이 패턴의 단점은 다음과 같다.
@@ -43,12 +43,12 @@ category: 'javascript'
 ### ▸ 범용 네임스페이스 함수
 *   프로그램 크기가 커져 복잡해지면, 네임스페이스 사용에 있어 점검이 필요하다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.2.png)
+![](./images/design-pattern/1/2.png)
 <br />
 
 * 객체 생성시 마다 추가하는 것보다는 함수로 별도 생성하는 것이 효과적이다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.3.png)
+![](./images/design-pattern/1/3.png)
 <br />
 
 ---
@@ -56,7 +56,7 @@ category: 'javascript'
 ### ▸ 의존 관계 선언
 * 함수나 모듈내의 최상단에 의존 관계가 있는 모듈을 선언하는 것이 좋다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.4.png)
+![](./images/design-pattern/1/4.png)
 <br />
 
 * 위 패턴의 장점은 다음과 같다.
@@ -68,7 +68,7 @@ category: 'javascript'
 
 * 코드 압축 예제를 보자면
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.5.png)
+![](./images/design-pattern/1/5.png)
 <br />
 
 ---
@@ -76,14 +76,14 @@ category: 'javascript'
 ### ▸ 비공개 프로퍼티와 메서드
 * `클로저`를 이용한 비공개 멤버는 다음과 같이 구현한다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.6.png)
+![](./images/design-pattern/1/6.png)
 <br />
 
 * 비공개 멤버 구현방법 => 함수 내에서 지역변수로 선언한 `프로퍼티`를 함수로 감싼다.
 * 생성자를 이용하여 비공개 멤버를 만드는 경우에는 생성자로 새로운 객체를 만들 때 마다 비공개 멤버가 재 생성되는 단점
 * 위와 같은 단점은 `프로토타입`으로 보완이 가능하다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.7.png)
+![](./images/design-pattern/1/7.png)
 <br />
 
 ---
@@ -102,22 +102,22 @@ category: 'javascript'
 #### ▸ 모듈 패턴 적용을 위한 절차
 * 1단계 : 네임스페이스 설정
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.8.png)
+![](./images/design-pattern/1/8.png)
 <br />
 
 * 2단계 : 모듈 정의
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.9.png)
+![](./images/design-pattern/1/9.png)
 <br />
 
 * 비공개 프로퍼티 및 메서드를 추가한 모듈의 모습
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.10.png)
+![](./images/design-pattern/1/10.png)
 <br />
 
 * 위의 모듈 내용을 모두 비공개로 바꾼 후 다음과 같이 몇개 API만 공개로 변환이 가능하다.
 
-![](../../../assets/javascript/design-pattern/1/javascript.design.pattern.11.png)
+![](./images/design-pattern/1/11.png)
 <br />
 
 **[⬆ 목차](#-목차)**

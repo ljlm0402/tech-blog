@@ -4,7 +4,7 @@ date: 2019-09-04 18:17:15
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.logo.jpeg)
+![](./images/design-pattern/logo.jpg)
 
 ## **💎 목차**
   * [디자인패턴](#-디자인패턴)
@@ -26,12 +26,12 @@ category: 'javascript'
 *   DOM 접근은 최소화 한다.
 *   반복문 내에서 DOM 접근은 피한다.
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.1.png)
+![](./images/design-pattern/3/1.png)
 <br />
 
 *   DOM 참조를 지역변수에 할당하여 사용한다.
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.2.png)
+![](./images/design-pattern/3/2.png)
 <br />
 
 *   자주 접근하는 엘리먼트에 `id 속성`을 추가하는 것도 성능 향상에 도움이 된다.
@@ -46,12 +46,12 @@ category: 'javascript'
 *   업데이트시에 화면을 `repaint` 하고, 엘리먼트를 `reflow` 하는데 많은 비용이 발생한다.
 *   서브트리를 추가할 시에는 서브 트리의 구성요소를 모두 생성한 후에 마지막에 한번만 추가해준다.
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.3.png)
+![](./images/design-pattern/3/3.png)
 <br />
 
 *   존재하는 트리를 변경하는 경우에는 서브트리의 루트를 복제해서 변경한 뒤 원래의 노드와 바꾼다.
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.4.png)
+![](./images/design-pattern/3/4.png)
 <br />
 
 ---
@@ -59,7 +59,7 @@ category: 'javascript'
 ### ▸ 이벤트
 *   이벤트 리스너는 아래와 같이 구현할 수 있다.
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.5.png)
+![](./images/design-pattern/3/5.png)
 <br />
 
 * `setTimeOut()` 이나 `Web Worker` 를 이용하여 쓰레드 같은 기능을 구현할 수 있다.
@@ -74,17 +74,17 @@ category: 'javascript'
 
 1. XMLHttpRequest(XHR) 객체를 생성
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.6.png)
+![](./images/design-pattern/3/6.png)
 <br />
 
 2. 응답 객체의 상태 변경시 알림을 받기 위한 콜백함수 지정
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.7.png)
+![](./images/design-pattern/3/7.png)
 <br />
 
 3. 요청
 
-![](../../../assets/javascript/design-pattern/3/javascript.design.pattern.8.png)
+![](./images/design-pattern/3/8.png)
 <br />
 
 ---

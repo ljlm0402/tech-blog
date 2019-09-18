@@ -4,7 +4,7 @@ date: 2019-09-11 11:00:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/dotenv/nodejs.dotenv.logo.png)
+![](./images/dotenv/logo.png)
 
 <center><strong>환경변수</strong>를 관리할 수 있는 라이브러리</center>
 
@@ -38,7 +38,7 @@ DB_DATABASE = database
 
 ### ▸ dotenv
 
-![](../../../assets/nodejs/dotenv/nodejs.dotenv.1.png)
+![](./images/dotenv/1.png)
 <br />
 
 - `dotenv.config()` .env 파일에서 변수들을 불러온다
@@ -74,21 +74,21 @@ DEV_DB_DATABASE = dev_database
 
 <br />
 
-![](../../../assets/nodejs/dotenv/nodejs.dotenv.2.png)
+![](./images/dotenv/2.png)
 <br />
 
 - `scripts` 실행 시 `NODE_ENV` 환경변수를 삽입하여 배포와 개발 명령어를 분리
 
 <br />
 
-![](../../../assets/nodejs/dotenv/nodejs.dotenv.3.png)
+![](./images/dotenv/3.png)
 <br />
 
 - `NODE_ENV` 환경변수에 맞게 `exports`
 
 <br />
 
-![](../../../assets/nodejs/dotenv/nodejs.dotenv.4.png)
+![](./images/dotenv/4.png)
 <br />
 
 - `require` 데이터를 가져와서 `db.connect`

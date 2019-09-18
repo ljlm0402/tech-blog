@@ -4,7 +4,7 @@ date: 2019-08-23 21:10:12
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.logo.png)
+![](./images/clean-code/2/logo.png)
 
 <center>클린코드 영문 그대로 <strong style="color:#fbc2eb">깨끗한 코드</strong>를 의미</center>
 
@@ -38,12 +38,12 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 
 #### 의미있고 발음하기 쉬운 변수 이름을 사용하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.1.png)
+![](./images/clean-code/2/1.png)
 <br />
 
 #### 동일한 유형의 변수에 동일한 어휘를 사용하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.2.png)
+![](./images/clean-code/2/2.png)
 <br />
 
 #### 검색 가능한 이름을 사용하세요.
@@ -51,24 +51,24 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   그렇기 때문에 코드를 읽기 쉽고 `검색 가능`하게 작성해야 합니다.
 *   그러지 않으면 여러분의 코드를 이해하려고 하는 사람들에게 큰 어려움을 줍니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.3.png)
+![](./images/clean-code/2/3.png)
 <br />
 
 #### 의도를 나타내는 변수들을 사용하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.4.png)
+![](./images/clean-code/2/4.png)
 <br />
 
 #### 자신만 알아볼 수 있는 작명을 피하세요.
 *   명시적인 것이 암시적인 것보다 좋습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.5.png)
+![](./images/clean-code/2/5.png)
 <br />
 
 #### 문맥상 필요없는 것들을 쓰지 마세요.
 * 문맥상 필요없는 것을 작성시에는 코드 읽기가 힘들어집니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.6.png)
+![](./images/clean-code/2/6.png)
 <br />
 
 
@@ -76,7 +76,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   기본 매개변수는 종종 short circuiting 트릭보다 깔끔합니다.
 *   기본 매개변수는 `undefined`일때만 적용됩니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.7.png)
+![](./images/clean-code/2/7.png)
 <br />
 
 **[⬆ 변수](#▸-변수variables)**
@@ -99,7 +99,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
     3.  인수 객체로 부터 비구조화된 객체와 배열은 복제되지 않습니다.
     4.  Linter를 사용하면 사용하지않는 인자에 대해 경고해주거나 비구조화 없이 코드를 짤 수 없게 할 수 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.8.png)
+![](./images/clean-code/2/8.png)
 <br />
 
 #### 함수는 하나의 행동만 해야합니다.
@@ -107,39 +107,39 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   함수가 1개 이상의 행동을 한다면 작성, 테스트, 이해 전반적으로 어려워집니다.
 *   함수에 하나의 행동을 정의한다면 수정도 수월하고 코드를 이해하는것도 쉬워질 것입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.9.png)
+![](./images/clean-code/2/9.png)
 <br />
 
 #### 함수명은 함수가 무엇을 하는지 알 수 있어야 합니다.
 *   함수명 통해 무엇을 하는지 파악하기 위해서는 함수명 작성에 주의해야합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.10.png)
+![](./images/clean-code/2/10.png)
 <br />
 
 #### 함수는 단일 행동을 추상화 해야합니다.
 *   추상화된 이름이 여러 의미를 내포하고 있다면 그 함수는 너무 많은 일을 하게끔 설계된 것입니다.
 *   함수들을 나누어서 재사용 가능하고 테스트하기 쉽게 구현해야합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.11.png)
+![](./images/clean-code/2/11.png)
 <br />
 
 #### 중복된 코드를 작성하지 마세요.
 *   중복된 코드가 있다는 것은 어떤 로직을 수정해야 할 일이 생겼을 때 수정 해야할 코드가 여러 곳이라는 뜻입니다.
 *   중복 코드를 제거한다는 것은 함수 / 모듈 / 클래스를 사용하여 여러 가지 차이점을 처리 할 수 있는 추상화를 만드는 것을 의미합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.12.png)
+![](./images/clean-code/2/12.png)
 <br />
 
 #### Object.assign을 사용해 기본 객체를 만드세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.13.png)
+![](./images/clean-code/2/13.png)
 <br />
 
 #### 매개변수로 플래그를 사용하지 마세요.
 *   플래그를 사용하는 것 자체가 그 함수가 한가지 이상의 역할을 하고 있다는 것을 뜻합니다.
 *   boolean 기반으로 함수가 실행되는 코드가 나뉜다면 함수를 분리하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.14.png)
+![](./images/clean-code/2/14.png)
 <br />
 
 #### 사이드 이펙트를 피하세요. (part 1)
@@ -148,44 +148,44 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   파일 작성을 하는 한개의 함수를 만듭니다. 대신, 함수나 클래스가 여러개 존재하면 안됩니다. 반드시 하나만 있어야 합니다.
 *   즉, 어떠한 구조체도 없이 객체 사이의 상태를 공유하거나, 무엇이든 쓸 수 있는 변경 가능한 데이터 유형을 사용하거나, 같은 사이드 이팩트를 만들어내는 것을 여러개 만들거나 하면 안됩니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.15.png)
+![](./images/clean-code/2/15.png)
 <br />
 
 #### 사이드 이펙트를 피하세요. (part 2)
 *   Javascript에서는 기본타입 자료형은 값을 전달하고 객체와 배열은 참조를 전달합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.16.png)
+![](./images/clean-code/2/16.png)
 <br />
 
 #### 전역 함수를 사용하지 마세요.
 *   전역 환경을 사용하는 것은 Javascript에서 나쁜 관행입니다.
 *   왜냐하면 다른 `라이브러리 충돌`, `운영환경에서 예외 발생`하기 전까지 문제 인지를 못하기 때문입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.17.png)
+![](./images/clean-code/2/17.png)
 <br />
 
 #### 명령형 프로그래밍보다 함수형 프로그래밍을 지향하세요.
 *   Javascript는 함수형 프로그래밍 언어는 아니지만 함수형 프로그래밍처럼 작성할 수 있습니다.
 *   함수형 언어는 더 깔끔하고 테스트하기 쉽습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.18.png)
+![](./images/clean-code/2/18.png)
 <br />
 
 #### 조건문을 캡슐화 하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.19.png)
+![](./images/clean-code/2/19.png)
 <br />
 
 #### 부정조건문을 사용하지 마세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.20.png)
+![](./images/clean-code/2/20.png)
 <br />
 
 #### 조건문 작성을 피하세요.
 *   조건문 작성을 피하라는 것은 매우 불가능한 일로 보입니다.
 *   하지만 `다형성`을 이용한다면 동일한 작업을 수행할 수 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.21.png)
+![](./images/clean-code/2/21.png)
 <br />
 
 #### 타입-체킹을 피하세요. (part 1)
@@ -193,14 +193,14 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   이는 당신의 함수가 어떤 타입의 인자든 받을 수 있다는 것을 의미합니다.
 *   첫번째 방법은 일관성 있는 API를 사용하는 것 입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.22.png)
+![](./images/clean-code/2/22.png)
 <br />
 
 #### 타입-체킹을 피하세요. (part 2)
 *   당신이 문자열, 정수, 배열 등 기본 자료형을 사용하고 다형성을 사용할 수 없을 때
 *   여전히 타입-체킹이 필요하다고 느껴진다면 `Typescript` 사용을 권장합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.23.png)
+![](./images/clean-code/2/23.png)
 <br />
 
 #### 과도한 최적화를 지향하세요.
@@ -208,14 +208,14 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   대부분 당신이 코드를 최적화 하는 것은 시간낭비 가능성이 많습니다.
 *   최적화가 부족한 곳이 어딘지 알려주는 [좋은 자료](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)가 있으니 참고하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.24.png)
+![](./images/clean-code/2/24.png)
 <br />
 
 #### 죽은 코드를 지우세요
 *   죽은 코드는 중복된 코드 만큼이나 좋지 않습니다.
 *   호출되지 않는 코드가 있다면 그 코드를 지우세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.25.png)
+![](./images/clean-code/2/25.png)
 
 <br />
 
@@ -237,13 +237,13 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
     5. 클래스를 상속해서 디폴트 동작을 재정의할 수 있습니다.
     6. 서버에서 객체 속성을 받아올 때 lazy load 할수 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.26.png)
+![](./images/clean-code/2/26.png)
 <br />
 
 #### 객체에 비공개 매법를 만드세요.
 *   `클로져`를 이용하면 가능합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.27.png)
+![](./images/clean-code/2/27.png)
 <br />
 
 **[⬆ 객체와 자료구조](#▸-객체와-자료구조objects-and-data-structures)**
@@ -260,14 +260,14 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   클래스를 수정하는데 들이는 시간을 줄이는 것은 중요합니다.
 *   왜냐하면 하나의 클래스에 너무 많은 기능들이 있고 당신이 이 작은 기능들을 수정할 때 이코드가 다른 모듈들에게 어떤한 영향을 끼치는지 이해하기 어려울 수 있기 때문입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.28.png)
+![](./images/clean-code/2/28.png)
 <br />
 
 #### 개방/폐쇄 원칙 (Open/Closed Principle, OCP)
 *   Bertrand Meyer 말에 의하면 `소프트웨어 개체(클래스, 모듈, 함수)는 확장을 위해 개방적이어야 하며 수정시엔 폐쇄적이어야 합니다.`
 *   이 원리는 기본적으로 사용자가 `.js` 파일을 열어 수동으로 조작하지 않고도 모듈의 기능을 확장하도록 허용해야한다고 말합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.29.png)
+![](./images/clean-code/2/29.png)
 <br />
 
 #### 리스코프 치환 원칙  (Liskov Substitution Principle, LSP)
@@ -275,7 +275,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   `리스코프 원칙`이란 자료형 S가 자료형 T의 하위형이라면, 프로그램이 갖추어야 할 속성들(정확성, 수행되는 작업) 변경사항 없이, 
 *   자료형 T의 객체를 자료형 S의 객체로 교환(치환)할 수 있어야 한다는 원칙입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.30.png)
+![](./images/clean-code/2/30.png)
 <br />
 
 #### 인터페이스 분리 원칙 (Interface Segregation Principle, ISP)
@@ -285,7 +285,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   Javascript에서 보여주는 가장 좋은 예는 방대한 양의 설정 객체가 필요한 클래스입니다.
 *   설정을 선택으로 할 수 있다면 무거운 인터페이스를 만드는 것을 방지할 수 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.31.png)
+![](./images/clean-code/2/31.png)
 <br />
 
 #### 의존성 역전 원칙 (Dependency Inversion Principle, DIP)
@@ -297,7 +297,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 * DI의 장점은 모듈 간의 의존성을 감소시키는 데에 있습니다.
 * 모듈간의 의존성이 높을수록 코드를 리팩토링 하는데 어려워지고 이것은 매우 나쁜 개발 패턴들 중 하나입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.32.png)
+![](./images/clean-code/2/32.png)
 <br />
 
 #### ES5의 함수보다 ES2015/ES6의 클래스를 사용하세요.
@@ -305,7 +305,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   매번 그런것은 아니지만 상속이 필요한 경우라면 클래스를 사용하는 것이 좋습니다.
 *   하지만 당신이 크고 더 복잡한 객체가 필요한 경우가 아니라면 클래스보다 작은 함수를 사용하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.33.png)
+![](./images/clean-code/2/33.png)
 <br />
 
 #### 메소드 체이닝을 사용하세요.
@@ -314,7 +314,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   이는 코드를 간결하고 이해하기 쉽게 만들어 줍니다.
 *   클래스 함수에서는 단순히 모든 함수의 끝에 `this`를 리턴해주는 것으로 클래스 메소드를 추가로 연결할 수 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.34.png)
+![](./images/clean-code/2/34.png)
 <br />
 
 #### 상속보단 조합 (composition)을 사용하세요.
@@ -326,7 +326,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 2.  기반 클래스의 코드를 다시 사용할 수 있을 때 (인간은 모든 동물처럼 움직일 수 있습니다.)
 3.  기반 클래스를 수정하여 파생된 클래스 모두를 수정하고 싶을 때 (이동시 모든 동물이 소비하는 칼로리를 변경하고 싶을 때)
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.35.png)
+![](./images/clean-code/2/35.png)
 <br />
 
 **[⬆ 클래스](#▸-클래스classes)**
@@ -340,7 +340,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   테스트 없이 배포한다는 것은 당신이 짜놓은 코드가 언제든 오작동해도 이상하지 않다는 얘기와 같습니다.
 *   여기 [훌륭하고 많은 JavaScript 테스트 프레임워크들](http://jstherightway.org/#testing-tools)이 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.36.png)
+![](./images/clean-code/2/36.png)
 <br />
 
 **[⬆ 테스트](#▸-테스트testing)**
@@ -354,7 +354,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   Callback은 깔끔하지 않습니다. 그리고 엄청난 중괄호 중첩을 만들어 냅니다.
 *   ES2015/ES6에선 [Promise](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise)가 내장되어 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.37.png)
+![](./images/clean-code/2/37.png)
 <br />
 
 #### Async/Await은 Promise보다 더욱 깔끔합니다.
@@ -363,7 +363,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   오직 필요한 것은 함수 앞에 `async`를 붙이는 것 뿐입니다. 
 *   그러면 함수를 논리적으로 연결하기 위해 더이상 `then`을 쓰지 않아도 됩니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.38.png)
+![](./images/clean-code/2/38.png)
 <br />
 
 **[⬆ 동시성](#▸-동시성concurrency)**
@@ -384,13 +384,13 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   `try/catch`로 코드를 감쌋다면 그건 당신이 그 코드에 어떤 에러가 날지 모르기 때문에 감싼 것이므로 그에 대한 어떤 장치를 해야합니다.
 *   에러 발생시 트래킹 모듈로는 [Sentry](https://sentry.io/welcome/)가 있습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.39.png)
+![](./images/clean-code/2/39.png)
 <br />
 
 #### Promise가 실패된 것을 무시하지 마세요.
 *   위의 원칙과 같은 이유입니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.40.png)
+![](./images/clean-code/2/40.png)
 <br />
 
 **[⬆ 에러 처리](#▸-에러-처리error-handling)**
@@ -409,7 +409,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   Javascript에는 정해진 타입이 없기 때문에 대소문자를 구분하는 것으로 당신의 변수나 함수명 등에서 많은 것을 알 수 있습니다.
 *   해당 규칙 또한 주관적이기 때문에 선택한 규칙을 따르시며 항상 `일관성` 있게 사용해야합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.41.png)
+![](./images/clean-code/2/41.png)
 <br />
 
 #### 함수 호출자와 함수 피호출자는 가깝게 위치시키세요.
@@ -417,7 +417,7 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   `이상적으로는 함수 호출자를 함수 피호출자 바로 위에 위치`시켜야 합니다.
 *   우리는 코드를 읽을때 신문 읽듯 위에서 아래로 읽기 때문에 코드 작성 시 고려하여 작성 해야합니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.42.png)
+![](./images/clean-code/2/42.png)
 <br />
 
 **[⬆ 포맷팅](#▸-포맷팅formatting)**
@@ -431,13 +431,13 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   주석을 다는것은 사과해야할 일이며 필수적인 것이 아닙니다.
 *   **좋은 코드는 *코드 자체*로 말합니다.**
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.43.png)
+![](./images/clean-code/2/43.png)
 <br />
 
 #### 주석으로 된 코드를 남기지 마세요.
 *   버전 관리 도구가 존재하기 때문에 코드를 주석으로 남길 이유가 없습니다.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.44.png)
+![](./images/clean-code/2/44.png)
 <br />
 
 #### 코드 기록을 주석으로 남기지 마세요.
@@ -445,13 +445,13 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 *   죽은 코드도 불필요한 설명도 특히 코드의 기록에 대한 주석도 필요하지 않습니다.
 *   만약 git을 사용하고 계시며 코드의 기록에 대해 보고 싶다면 `git log`를 사용하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.45.png)
+![](./images/clean-code/2/45.png)
 <br />
 
 #### 코드의 위치를 설명하지 마세요.
 *   적절한 들여쓰기와 포맷팅을 하고 함수와 변수의 이름에 의미를 부여하세요.
 
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.46.png)
+![](./images/clean-code/2/46.png)
 <br />
 
 **[⬆ 주석](#▸-주석comments)**
@@ -466,14 +466,10 @@ __본 내용은 주관적인 내용이 포함되어 있으니 이점 유의하�
 
 ## **🤔 생각해 보며**
 
-### main.ts
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.47.png)
-
+![](./images/clean-code/2/47.png)
 <br />
 
-### Vehicle.ts
-![](../../../assets/javascript/clean-code/2/javascript.clean.code.48.png)
-
+![](./images/clean-code/2/48.png)
 <br />
 
 한 기업에서 출제 했던 코드입니다.

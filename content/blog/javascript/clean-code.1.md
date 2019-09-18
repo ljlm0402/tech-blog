@@ -4,7 +4,7 @@ date: 2019-08-22 14:10:12
 category: 'javascript'
 ---
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.logo.png)
+![](./images/clean-code/1/logo.png)
 
 <center>클린코드 영문 그대로 <strong style="color:#fbc2eb">깨끗한 코드</strong>를 의미</center>
 
@@ -45,7 +45,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 <br />
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.1.png)
+![](./images/clean-code/1/1.png)
 
 <br />
 
@@ -57,7 +57,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 <br />
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.2.png)
+![](./images/clean-code/1/2.png)
 
 <br />
 
@@ -69,7 +69,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 <br />
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.3.png)
+![](./images/clean-code/1/3.png)
 
 <br />
 
@@ -81,7 +81,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 <br />
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.4.png)
+![](./images/clean-code/1/4.png)
 
 <br />
 
@@ -93,7 +93,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 <br />
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.5.png)
+![](./images/clean-code/1/5.png)
 
 <br />
 
@@ -103,7 +103,7 @@ __그러나 개발자라면 한번쯤은 생각해 봤으며 궁극적으로 도
 
 ## **🤔 생각해 보며**
 
-![](../../../assets/javascript/clean-code/1/javascript.clean.code.6.png)
+![](./images/clean-code/1/6.png)
 
 <br />
 

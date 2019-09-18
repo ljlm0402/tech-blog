@@ -4,7 +4,7 @@ date: 2019-09-10 18:22:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.logo.png)
+![](./images/socket-io/logo.png)
   
 <center><strong>실시간</strong>으로 상호작용하는 서비스</center>
 
@@ -29,7 +29,7 @@ $ npm install socket.io
 
 ### ▸ event
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.1.png)
+![](./images/socket-io/1.png)
 <br />
 
 - `connect` 소켓 연결
@@ -42,10 +42,10 @@ $ npm install socket.io
 
 ### ▸ data
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.2.png)
+![](./images/socket-io/2.png)
 <br />
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.3.png)
+![](./images/socket-io/3.png)
 <br />
 
 - `socket.emit('Event', data)` 데이터 전송
@@ -56,7 +56,7 @@ $ npm install socket.io
 
 ### ▸ broadcast
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.4.png)
+![](./images/socket-io/4.png)
 <br />
 
 - `socket.broadcast.emit('Event', data)` 자신을 제외한 전체에게 데이터 전송
@@ -71,15 +71,15 @@ $ npm install socket.io
 
 ### ▸ server
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.server.png)
+![](./images/socket-io/server.png)
 <br />
 
 ### ▸ client
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.client.1.png)
+![](./images/socket-io/client.1.png)
 <br />
 
-![](../../../assets/nodejs/socket-io/nodejs.socket.io.client.2.png)
+![](./images/socket-io/client.2.png)
 <br />
 
 * 해당 소스는 실시간 채팅 예시 소스입니다.

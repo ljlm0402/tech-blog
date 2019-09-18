@@ -4,7 +4,7 @@ date: 2019-09-11 12:37:00
 category: 'nodejs'
 ---
 
-![](../../../assets/nodejs/pm2/nodejs.pm2.logo.png)
+![](./images/pm2/logo.png)
   
 <center><strong style="color:#3EB1F3">노드 프로세스</strong>를 관리해주는 라이브러리</center>
 
@@ -361,7 +361,7 @@ $ pm2 ecosystem
 
 __ecosystem.cofing.js__
 
-![](../../../assets/nodejs/pm2/nodejs.pm2.1.png)
+![](./images/pm2/1.png)
 <br />
 
 * `name` 실행한 프로세스 이름
