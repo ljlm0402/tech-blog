@@ -74,6 +74,6 @@ $ npm install readline-sync
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/exceljs" target="_blank">github > exceljs</a>
+> <a href="https://github.com/bynodejs/exceljs" target="_blank">GitHub > exceljs</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

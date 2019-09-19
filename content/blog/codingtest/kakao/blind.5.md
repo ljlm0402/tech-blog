@@ -1,4 +1,4 @@
----
+<!-- ---
 title: ' [CodingTest] 카카오 블라인드 - 프로그래밍 5 '
 date: 2019-09-07 16:00:00
 category: 'codingtest'
@@ -146,4 +146,4 @@ __입출력 예에 대한 설명__
 >
 > <a href="https://programmers.co.kr/tryouts/9846/challenges/33727" target="_blank">온라인 코딩테스트 > 프로그래밍 5</a>
 
-# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧ -->

@@ -45,7 +45,7 @@ __전송 결과__
 ![](./images/nodemailer/1.result.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ ejs
 * HTML 페이지를 이용하여 이메일 전송을 한다.
@@ -70,7 +70,7 @@ __전송 결과__
 ![](./images/nodemailer/2.result.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ html-pdf
 * HTML 파일을 PDF 저장하여 첨부파일로 전송한다.
@@ -104,7 +104,7 @@ __전송 결과__
 ![](./images/nodemailer/3-2.result.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ error
 * `service: gmail` 사용 시 에러가 발생할 수 있다.
@@ -160,6 +160,6 @@ __전송 결과__
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/nodemailer" target="_blank">github > nodemailer</a>
+> <a href="https://github.com/bynodejs/nodemailer" target="_blank">GitHub > nodemailer</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

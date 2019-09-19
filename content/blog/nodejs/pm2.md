@@ -33,7 +33,7 @@ $ pm2 -v
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 start <id|name>
 * 프로세스 실행
@@ -51,7 +51,7 @@ $ pm2 start ./bin/www
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 stop <id|name>
 * 프로세스 중지
@@ -69,7 +69,7 @@ $ pm2 stop www
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 restart <id|name>
 * 프로세스 재시작
@@ -88,7 +88,7 @@ Use --update-env to update environment variables
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 delete <id|name>
 * 프로세스 제거
@@ -104,7 +104,7 @@ $ pm2 delete www
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 list
 * 프로세스 목록
@@ -120,7 +120,7 @@ $ pm2 list
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 show <id|name>
 * 프로세스 상세 조회
@@ -181,7 +181,7 @@ $ pm2 show www
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 log
 * 프로세스 로그파일 확인
@@ -212,7 +212,7 @@ PM2        | 2019-09-11T14:44:29: PM2 log: App [www:0] online
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 log <id|name>
 *   특정 프로세스의 로그파일 확인
@@ -226,7 +226,7 @@ $ pm2 log www
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 flush
 * 로그파일 삭제
@@ -242,7 +242,7 @@ $ pm2 flush
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ pm2 monit
 * 프로세스 실시간 모니터링
@@ -346,7 +346,7 @@ Use --update-env to update environment variables
 
 ```
 
-<hr>
+<hr />
 
 ### ▸ Ecosystem File
 * pm2 설정 파일
@@ -398,6 +398,6 @@ $ pm2 start ecosystem.cofing.js --env development
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/pm2" target="_blank">github > pm2</a>
+> <a href="https://github.com/bynodejs/pm2" target="_blank">GitHub > pm2</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

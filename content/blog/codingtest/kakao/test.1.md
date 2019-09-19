@@ -1,4 +1,4 @@
----
+<!-- ---
 title: ' [CodingTest] 카카오 블라인드 - 데모 테스트 1 '
 date: 2019-09-06 17:58:00
 category: 'codingtest'
@@ -84,4 +84,4 @@ category: 'codingtest'
 >
 > <a href="https://programmers.co.kr/tryouts/3930/challenges/11622" target="_blank">온라인 코딩테스트 > 프로그래밍 1</a>
 
-# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧ -->

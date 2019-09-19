@@ -1,12 +1,12 @@
 ---
-title: ' [JavaScript] 비동기 처리 🚦 ▻ async / await'
+title: ' [JavaScript] 비동기 처리 🚦 ▻ async / await '
 date: 2019-08-22 11:08:60
 category: 'javascript'
 ---
 
 ![](./images/async-await/logo.png)
 
-<center>ES8(ECMAScript2017) 정의된 <strong style="color:#fbc2eb">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
+<center>ES8(ECMAScript2017) 정의된 <strong style="color:#F6CF2F">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
 
 ## **💎 목차**
   * [문제 (Problem)](#-문제를-보며)

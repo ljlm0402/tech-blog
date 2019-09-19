@@ -103,6 +103,6 @@ DEV_DB_DATABASE = dev_database
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/dotenv" target="_blank">github > dotenv</a>
+> <a href="https://github.com/bynodejs/dotenv" target="_blank">GitHub > dotenv</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

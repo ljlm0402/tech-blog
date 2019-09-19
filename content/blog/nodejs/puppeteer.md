@@ -29,7 +29,7 @@ $ npm install puppeteer
 ![](./images/puppeteer/1.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ pdf
 *   PDF 파일을 저장한다.
@@ -37,7 +37,7 @@ $ npm install puppeteer
 ![](./images/puppeteer/2.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ emulate devices
 *   디바이스 모드로 전환한다.
@@ -45,7 +45,7 @@ $ npm install puppeteer
 ![](./images/puppeteer/3.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ setCookie
 *   쿠키를 설정한다.
@@ -53,7 +53,7 @@ $ npm install puppeteer
 ![](./images/puppeteer/4.png)
 <br />
 
-<hr>
+<hr />
 
 ### ▸ tracing
 *   접속 브라우저 정보를 추적한다.
@@ -105,6 +105,6 @@ $ npm install readline-sync
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/crawling" target="_blank">github > crawling</a>
+> <a href="https://github.com/bynodejs/crawling" target="_blank">GitHub > crawling</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

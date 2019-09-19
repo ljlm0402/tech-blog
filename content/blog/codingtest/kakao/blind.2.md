@@ -1,4 +1,4 @@
----
+<!-- ---
 title: ' [CodingTest] 카카오 블라인드 - 프로그래밍 2 '
 date: 2019-09-07 14:30:00
 category: 'codingtest'
@@ -126,4 +126,4 @@ __매개변수 설명__
 >
 > <a href="https://programmers.co.kr/tryouts/9846/challenges/33724" target="_blank">온라인 코딩테스트 > 프로그래밍 2</a>
 
-# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧ -->
