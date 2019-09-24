@@ -6,7 +6,7 @@ category: 'javascript'
 
 ![](./images/clean-code/2/logo.png)
 
-<center>클린코드 영문 그대로 <strong style="color:#fbc2eb">깨끗한 코드</strong>를 의미</center>
+<center>클린코드 영문 그대로 <strong style="color:#112D39">깨끗한 코드</strong>를 의미</center>
 
 ## **💎 목차**
   * [클린코드](#-클린코드)
