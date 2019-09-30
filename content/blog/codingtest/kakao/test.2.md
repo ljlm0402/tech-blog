@@ -1,7 +1,7 @@
 <!-- ---
-title: ' [CodingTest] 카카오 블라인드 - 데모 테스트 2 '
+title: ' 카카오 블라인드 ▻ 데모 테스트 2 '
 date: 2019-09-06 18:00:00
-category: 'codingtest'
+category: 'Coding Test'
 ---
 
 ![](./images/logo.png)

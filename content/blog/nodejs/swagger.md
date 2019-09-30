@@ -1,7 +1,7 @@
 <!-- ---
-title: ' [Node Js] RESTful 개발 도구 📋 ▻ swagger '
+title: ' RESTful 개발 도구 📋 ▻ swagger '
 date: 2019-09-10 18:22:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/swagger/logo.png)
@@ -9,9 +9,10 @@ category: 'nodejs'
 <center>개발자가 <strong style="color:#93BB53">RESTful 웹 서비스를 설계, 빌드, 문서화</strong>를 도와주는 프레임 워크</center>
 
 ## **💎 목차**
-  * [설치를 하며](#️-설치를-하며)
-  * [코드를 보며](#-코드를-보며)
-  * [생각 해보며](#-생각해-보며)
+
+- [설치를 하며](#️-설치를-하며)
+- [코드를 보며](#-코드를-보며)
+- [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
 
@@ -32,11 +33,11 @@ $ npm install swagger-ui-express
 ![](./images/swagger/1.png)
 <br />
 
-* `swagger-jsdoc`와 `swagger-ui-express`를 require
+- `swagger-jsdoc`와 `swagger-ui-express`를 require
 
-* `app.use()` 라우트 경로 지정 후
+- `app.use()` 라우트 경로 지정 후
 
-* `swaggerUi.serve, swaggerUi.setup(swaggerJSDoc()` swaager 환경 파일 지정
+- `swaggerUi.serve, swaggerUi.setup(swaggerJSDoc()` swaager 환경 파일 지정
 
 <br />
 
@@ -50,10 +51,12 @@ $ npm install swagger-ui-express
 중점으로 봐야할 부분은 `components`, `definitions` 이다.
 
 1. components
-  - status 결과값을 지정해주고 해당 status 응답이 올 경우 결과값 송신해준다.
+
+- status 결과값을 지정해주고 해당 status 응답이 올 경우 결과값 송신해준다.
 
 2. definitions
-  - 모델 정의
+
+- 모델 정의
 
 <br />
 
@@ -63,11 +66,11 @@ $ npm install swagger-ui-express
 
 앞서 API를 컨트롤하기 위한 `REQUEST METHOD` 부터 설명하겠습니다.
 
-* param
+- param
 
-* query
+- query
 
-* body
+- body
 
 이다.
 
@@ -105,15 +108,15 @@ XML, JSON, Multi Form 등의 데이터를 담는다.
 
 RESTful API 개발에서는 주로
 
-* POST (Create)
+- POST (Create)
 
-* GET (Read)
+- GET (Read)
 
-* PUT (Update)
+- PUT (Update)
 
-* DELETE (Delete)
+- DELETE (Delete)
 
-라고 통칭 __CRUD__ 라고 부른다.
+라고 통칭 **CRUD** 라고 부른다.
 
 협업이나 개인 프로젝트 개발시에도 정해진 규칙으로 개발시
 
@@ -128,8 +131,6 @@ RESTful API 개발에서는 주로
 - DELETE (Delete)를 통해 해당 리소스를 `삭제`합니다.
 
 이 처럼 Request 메소드와 HTTP 메소드가 RESTful API 설계하는 중심 규칙입니다.
-
-
 
 **[⬆ 목차](#-목차)**
 

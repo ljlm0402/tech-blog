@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 실시간 통신 🗣 ▻ socket.io '
+title: ' 실시간 통신 🗣 ▻ socket.io '
 date: 2019-09-10 18:22:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/socket-io/logo.png)

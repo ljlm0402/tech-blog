@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 크롤링 👣 ▻ puppeteer'
+title: ' 크롤링 👣 ▻ puppeteer'
 date: 2019-08-21 20:38:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/puppeteer/logo.png)

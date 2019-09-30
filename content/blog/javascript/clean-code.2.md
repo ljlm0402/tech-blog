@@ -1,7 +1,7 @@
 ---
-title: ' [JavaScript] 클린 코드 🛁 ▻ 2탄 '
+title: ' 클린 코드 🛁 ▻ 2탄 '
 date: 2019-08-23 21:10:12
-category: 'javascript'
+category: 'JavaScript'
 ---
 
 ![](./images/clean-code/2/logo.png)

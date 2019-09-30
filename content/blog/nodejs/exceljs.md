@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 엑셀 📗 ▻ exceljs'
+title: ' 엑셀 📗 ▻ exceljs'
 date: 2019-09-10 15:15:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/exceljs/logo.png)

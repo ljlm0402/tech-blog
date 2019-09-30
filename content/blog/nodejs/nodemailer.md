@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 이메일 📬 ▻ nodemailer '
+title: ' 이메일 📬 ▻ nodemailer '
 date: 2019-09-16 10:50:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/nodemailer/logo.png)

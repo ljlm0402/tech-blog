@@ -1,7 +1,7 @@
 <!-- ---
-title: ' [CodingTest] 카카오 블라인드 - 프로그래밍 6 '
+title: ' 카카오 블라인드 ▻ 프로그래밍 6 '
 date: 2019-09-07 16:30:00
-category: 'codingtest'
+category: 'Coding Test'
 ---
 
 ![](./images/logo.png)

@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 프로세스 관리 ⚙️ ▻ pm2 '
+title: ' 프로세스 관리 ⚙️ ▻ pm2 '
 date: 2019-09-11 12:37:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/pm2/logo.png)

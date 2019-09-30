@@ -1,7 +1,7 @@
 ---
-title: ' [JavaScript] 디자인 패턴 💠 ▻ DOM과 브라우저 패턴 '
+title: ' 디자인 패턴 💠 ▻ DOM과 브라우저 패턴 '
 date: 2019-09-04 18:17:15
-category: 'javascript'
+category: 'JavaScript'
 ---
 
 ![](./images/design-pattern/logo.jpg)

@@ -1,7 +1,7 @@
 ---
-title: ' [Node Js] 환경변수 관리 🔒 ▻ dotenv '
+title: ' 환경변수 관리 🔒 ▻ dotenv '
 date: 2019-09-11 11:00:00
-category: 'nodejs'
+category: 'Node Js'
 ---
 
 ![](./images/dotenv/logo.png)
