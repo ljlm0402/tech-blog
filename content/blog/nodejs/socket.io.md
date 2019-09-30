@@ -5,13 +5,14 @@ category: 'nodejs'
 ---
 
 ![](./images/socket-io/logo.png)
-  
+
 <center><strong>실시간</strong>으로 상호작용하는 서비스</center>
 
 ## **💎 목차**
-  * [설치를 하며](#️-설치를-하며)
-  * [코드를 보며](#-코드를-보며)
-  * [생각 해보며](#-생각해-보며)
+
+- [설치를 하며](#️-설치를-하며)
+- [코드를 보며](#-코드를-보며)
+- [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
 
@@ -82,7 +83,7 @@ $ npm install socket.io
 ![](./images/socket-io/client.2.png)
 <br />
 
-* 해당 소스는 실시간 채팅 예시 소스입니다.
+- 해당 소스는 실시간 채팅 예시 소스입니다.
 
   1. `socket.emit('Event', data)`에서 data에 type을 지정하여 css를 컨트롤
   2. `socket.broadcast('Event', data)`를 통한 데이터 전송 컨트롤

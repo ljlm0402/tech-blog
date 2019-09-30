@@ -5,13 +5,14 @@ category: 'nodejs'
 ---
 
 ![](./images/puppeteer/logo.png)
-  
+
 <center><strong style="color:#05D197">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
 
 ## **💎 목차**
-  * [설치를 하며](#️-설치를-하며)
-  * [코드를 보며](#-코드를-보며)
-  * [생각 해보며](#-생각해-보며)
+
+- [설치를 하며](#️-설치를-하며)
+- [코드를 보며](#-코드를-보며)
+- [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
 
@@ -24,41 +25,48 @@ $ npm install puppeteer
 ## **😳 코드를 보며**
 
 ### ▸ screenshot
-*   스크린샷을 저장한다.
 
 ![](./images/puppeteer/1.png)
 <br />
 
+- 스크린샷을 저장한다.
+
 <hr />
 
 ### ▸ pdf
-*   PDF 파일을 저장한다.
 
 ![](./images/puppeteer/2.png)
 <br />
 
+- PDF 파일을 저장한다.
+
 <hr />
 
 ### ▸ emulate devices
-*   디바이스 모드로 전환한다.
 
 ![](./images/puppeteer/3.png)
 <br />
 
+- 디바이스 모드로 전환한다.
+
 <hr />
 
 ### ▸ setCookie
-*   쿠키를 설정한다.
 
 ![](./images/puppeteer/4.png)
 <br />
 
+- 쿠키를 설정한다.
+
 <hr />
 
 ### ▸ tracing
-*   접속 브라우저 정보를 추적한다.
 
 ![](./images/puppeteer/5.png)
+<br />
+
+- 접속 브라우저 정보를 추적한다.
+
 <br />
 
 **[⬆ 목차](#-목차)**

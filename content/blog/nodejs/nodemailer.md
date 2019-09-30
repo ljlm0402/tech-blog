@@ -9,9 +9,10 @@ category: 'nodejs'
 <center><strong style="color:#1FB674">이메일</strong> 발송을 위한 라이브러리</center>
 
 ## **💎 목차**
-  * [설치를 하며](#️-설치를-하며)
-  * [코드를 보며](#-코드를-보며)
-  * [생각 해보며](#-생각해-보며)
+
+- [설치를 하며](#️-설치를-하며)
+- [코드를 보며](#-코드를-보며)
+- [생각 해보며](#-생각해-보며)
 
 ## **⚙️ 설치를 하며**
 
@@ -23,24 +24,23 @@ $ npm install nodemailer
 
 ## **😳 코드를 보며**
 
-
-
 ![](./images/nodemailer/1.example.png)
 <br />
 
-* `createTransport` 
-  * service - SMTP 기반 전송 지원
-  * auth - user: 메일 계정, pass: 계정 비밀번호
+- `createTransport`
 
-* `sendMail` 
-  * from(보내는 사람) - name: 보내는 이, address: 보내는 메일
-  * to(받는 사람) - address: 받는 메일
-  * subject(제목)
-  * text(내용)
+  - service - SMTP 기반 전송 지원
+  - auth - user: 메일 계정, pass: 계정 비밀번호
+
+- `sendMail`
+  - from(보내는 사람) - name: 보내는 이, address: 보내는 메일
+  - to(받는 사람) - address: 받는 메일
+  - subject(제목)
+  - text(내용)
 
 <br />
 
-__전송 결과__
+**전송 결과**
 
 ![](./images/nodemailer/1.result.png)
 <br />
@@ -48,7 +48,6 @@ __전송 결과__
 <hr />
 
 ### ▸ ejs
-* HTML 페이지를 이용하여 이메일 전송을 한다.
 
 ```sh
 
@@ -60,12 +59,14 @@ $ npm install ejs
 ![](./images/nodemailer/2.example.png)
 <br />
 
-* `ejs.renderFile`
-  * /public/views/example.html 파일을 불러와서 전송한다.
+- HTML 페이지를 이용하여 이메일 전송을 한다.
+
+- `ejs.renderFile`
+  - /public/views/example.html 파일을 불러와서 전송한다.
 
 <br />
 
-__전송 결과__
+**전송 결과**
 
 ![](./images/nodemailer/2.result.png)
 <br />
@@ -73,7 +74,6 @@ __전송 결과__
 <hr />
 
 ### ▸ html-pdf
-* HTML 파일을 PDF 저장하여 첨부파일로 전송한다.
 
 ```sh
 
@@ -88,15 +88,17 @@ $ npm install html-pdf
 ![](./images/nodemailer/3-2.example.png)
 <br />
 
-* `ejs.renderFile` 결과 HtmlCode `pdf.create`로 전송
+- HTML 파일을 PDF 저장하여 첨부파일로 전송한다.
 
-* `htmlCode`를 buffer로 생성하여 resolve
+- `ejs.renderFile` 결과 HtmlCode `pdf.create`로 전송
 
-* buffer를 `attachments` filename(pdf 파일명), content(pdf 파일) 기입
+- `htmlCode`를 buffer로 생성하여 resolve
+
+- buffer를 `attachments` filename(pdf 파일명), content(pdf 파일) 기입
 
 <br />
 
-__전송 결과__
+**전송 결과**
 
 ![](./images/nodemailer/3-1.result.png)
 <br />
@@ -107,7 +109,6 @@ __전송 결과__
 <hr />
 
 ### ▸ error
-* `service: gmail` 사용 시 에러가 발생할 수 있다.
 
 ```sh
 
@@ -116,12 +117,14 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 ```
 
+- `service: gmail` 사용 시 에러가 발생할 수 있다.
+
 <br />
 
 ![](./images/nodemailer/solution.png)
 <br />
 
-* 구글 계정에서 보안 수준 앱의 엑세스를 허용하면 가능하다.
+- 구글 계정에서 보안 수준 앱의 엑세스를 허용하면 가능하다.
 
 <br />
 
@@ -130,9 +133,6 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 ---
 
 ## **🤔 생각해 보며**
-* 이메일 전송 서비스를 활용하여 비밀번호 변경 메일을 구성해보자
-
-<br />
 
 ![](./images/nodemailer/4-1.example.png)
 <br />
@@ -143,11 +143,13 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 ![](./images/nodemailer/4-3.example.png)
 <br />
 
-* 데이터를 동적으로 할당 받아 html 전송한다.
+- 이메일 전송 서비스를 활용하여 비밀번호 변경 메일을 구성해보자
+
+- 데이터를 동적으로 할당 받아 html 전송한다.
 
 <br />
 
-__전송 결과__
+**전송 결과**
 
 ![](./images/nodemailer/4.result.png)
 <br />

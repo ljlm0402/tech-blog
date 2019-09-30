@@ -9,15 +9,16 @@ category: 'javascript'
 <center>ES8(ECMAScript2017) 정의된 <strong style="color:#F6CF2F">비동기 함수</strong>로 비동기 처리를 위함이다.</center>
 
 ## **💎 목차**
-  * [문제 (Problem)](#-문제를-보며)
-  * [해답 (Solution)](#-해답을-보며)
-  * [실습 (Practice)](#-실습을-하며)
+
+- [문제 (Problem)](#-문제를-보며)
+- [해답 (Solution)](#-해답을-보며)
+- [실습 (Practice)](#-실습을-하며)
 
 ## **📕 문제를 보며**
 
 ![](./images/async-await/1.png)
 
-__결과 : `1 3 5 2 4`__
+**결과 : `1 3 5 2 4`**
 
 - `비동기식`으로 처리가 되어 `setTimeout` 함수가 완료되지 않아도 다음 코드를 실행한다.
 
@@ -31,7 +32,7 @@ __결과 : `1 3 5 2 4`__
 
 ![](./images/async-await/2.png)
 
-__결과 : `1 2 3 4 5`__
+**결과 : `1 2 3 4 5`**
 
 - `function`앞에 `aysnc`과 비동기로 처리되는 부분에 `await` 작성하면 된다.
 
