@@ -1,6 +1,6 @@
-<!-- ---
+---
 title: ' RESTful 개발 도구 📋 ▻ swagger '
-date: 2019-09-10 18:22:00
+date: 2019-10-01 12:42:00
 category: 'Node Js'
 ---
 
@@ -33,9 +33,7 @@ $ npm install swagger-ui-express
 ![](./images/swagger/1.png)
 <br />
 
-- `swagger-jsdoc`와 `swagger-ui-express`를 require
-
-- `app.use()` 라우트 경로 지정 후
+- `app.use()` 라우트 경로 지정 할때,
 
 - `swaggerUi.serve, swaggerUi.setup(swaggerJSDoc()` swaager 환경 파일 지정
 
@@ -48,95 +46,65 @@ $ npm install swagger-ui-express
 ![](./images/swagger/2.png)
 <br />
 
-중점으로 봐야할 부분은 `components`, `definitions` 이다.
+- `components` 응답 스키마를 정의
 
-1. components
+- `definitions` Models 정의
 
-- status 결과값을 지정해주고 해당 status 응답이 올 경우 결과값 송신해준다.
-
-2. definitions
-
-- 모델 정의
+- `apis` request 라우터 경로
 
 <br />
 
 <hr />
 
-회원에 관한 RESTful API를 테스트 해보기에
+### ▸ /routes/index.js
 
-앞서 API를 컨트롤하기 위한 `REQUEST METHOD` 부터 설명하겠습니다.
+![](./images/swagger/3.png)
+<br />
 
-- param
+```sh
 
-- query
+/**
+ * @swagger         { swagger 지정 }
+ * /:               { 요청 경로 }
+ *  get:            { 요청 메소드 }
+ *   summary: text  { 간략 설명 }
+ *   tags: [Index]  { 태그 }
+ *   responses:     { 응답 데이터 swagger 참고}
+ *       200:
+ *           $ref: '#/components/res/Ok'
+ *       204:
+ *           $ref: '#/components/res/NoContent'
+ *       500:
+ *           $ref: '#/components/res/InternalServerError'
+ */
 
-- body
+```
 
-이다.
-
-각각의 설명을 하자면
-
-1. req.param
-
-주소에 포함된 변수를 담는다.
-
-예를 들어 `http://localhost:3000/123` 이라는 주소는 123을 담는다.
-
-즉, key 값을 표시해주지 않는다.
+- 경로를 통해 데이터를 요청해서 해당 응답 코드에 맞게 제공
 
 <br />
 
-2. req.query
-
-주소의 ? 이후의 변수를 담는다.
-
-예를 들어 `http://localhost:3000?query=123` 이라는 주소는
-
-{ key: query, value: 123 } 을 의미한다.
-
-3. req.body
-
-XML, JSON, Multi Form 등의 데이터를 담는다.
-
-주소에선 확인 할수 없어서 보안상 안전하다.
-
+![](./images/swagger/4.gif)
 <br />
 
-<hr />
+- Swagger UI를 통한 결과물이다.
 
-추가적으로 `HTTP METHOD` 관련 설명을 하겠습니다.
-
-RESTful API 개발에서는 주로
-
-- POST (Create)
-
-- GET (Read)
-
-- PUT (Update)
-
-- DELETE (Delete)
-
-라고 통칭 **CRUD** 라고 부른다.
-
-협업이나 개인 프로젝트 개발시에도 정해진 규칙으로 개발시
-
-이해로를 높힐수 있다.
-
-- POST (Create)를 통해 해당 URI를 요청하면 리소스를 `생성`합니다.
-
-- GET (Read)를 통해 해당 리소스를 `조회`와 Request 메소드를 활용 `상세 정보`를 가져온다.
-
-- PUT (Update)를 통해 해당 리소스를 `수정`합니다.
-
-- DELETE (Delete)를 통해 해당 리소스를 `삭제`합니다.
-
-이 처럼 Request 메소드와 HTTP 메소드가 RESTful API 설계하는 중심 규칙입니다.
+<br />
 
 **[⬆ 목차](#-목차)**
 
 ---
 
 ## **🤔 생각해 보며**
+
+![](./images/swagger/5.gif)
+<br />
+
+- `USER` 유저 API, `BOARD` 게시글 API 예시입니다.
+
+- 소스를 이해하고 개선하면서 추후에는 `DATABASE`도 연동해보시길 바랍니다.
+
+- 혹여 더 좋은 방법이 있으시면 공유도 부탁드립니다.
 
 <br />
 
@@ -150,4 +118,4 @@ RESTful API 개발에서는 주로
 >
 > <a href="https://github.com/bynodejs/swagger" target="_blank">GitHub > swagger</a>
 
-# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧ -->
+# 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
