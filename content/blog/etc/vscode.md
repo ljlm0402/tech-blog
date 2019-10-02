@@ -4,9 +4,9 @@ date: 2019-09-30 15:34:00
 category: 'VS Code'
 ---
 
-![](./images/logo.png)
+![](./images/vscode/logo.png)
 
-<center>MS에서 제공하는 <strong style="color:#302D6C">크로스 플랫폼 에디터</strong></center>
+<center>MS에서 제공하는 <strong style="color:#302D6C; font-size: 20px;">크로스 플랫폼 에디터</strong></center>
 
 ## **💎 목차**
 
@@ -34,7 +34,7 @@ category: 'VS Code'
 
 ## **🌹 본론**
 
-![](./images/1.png)
+![](./images/vscode/1.png)
 <br />
 
 현재 사용하고 있는 EXTENSIONS는 다음과 같습니다.
@@ -43,12 +43,12 @@ category: 'VS Code'
 
 ### **▸ Bracket Pair Colorizer**
 
-[![](./images/2.png)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+[![](./images/vscode/2.png)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 <br />
 
 대괄호를 색상으로 식별 할 수 있도록 해준다.
 
-![](./images/3.png)
+![](./images/vscode/3.png)
 <br />
 
 `function` 괄호는 노란색
@@ -60,49 +60,46 @@ category: 'VS Code'
 기본적으로 `()` `{}` `[]` 를 제공하고 있습니다.
 
 <br />
-
 <hr />
 
 ### **▸ CSS Peek**
 
-[![](./images/4.png)](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+[![](./images/vscode/4.png)](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 <br />
 
 클래스와 아이디에 한하여 CSS, SCSS 코드를 살펴볼수 있다.
 
-![](./images/5.gif)
+![](./images/vscode/5.gif)
 <br />
 
 `css` 연동 후 클래스네임을 비춰보면 `style`을 확인할 수 있다.
 
 <br />
-
 <hr />
 
 ### **▸ Docker**
 
-[![](./images/6.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+[![](./images/vscode/6.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 <br />
 
 컨테이너화 된 응용프로그램을 빌드, 관리, 배포를 쉽게 할 수 있다.
 
-![](./images/7.gif)
+![](./images/vscode/7.gif)
 <br />
 
 플랫폼 엔진을 선택하면 자동으로 `Dockerfile`, `docker-compose.yml` 생성
 
 <br />
-
 <hr />
 
 ### **▸ GitLens - Git supercharged**
 
-[![](./images/8.png)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+[![](./images/vscode/8.png)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 <br />
 
 라인 또는 코드 블록이 변경된 사람, 이유, 시기를 신속하게 엿볼 수 있습니다.
 
-![](./images/9.png)
+![](./images/vscode/9.png)
 <br />
 
 - `ljlm0402` 아이디
@@ -114,55 +111,51 @@ category: 'VS Code'
 커밋에 관련한 정보를 볼수 있다.
 
 <br />
-
 <hr />
 
 ### **▸ Import Cost**
 
-[![](./images/10.png)](https://marketplace.visualstudio.com/items?itemname=wix.vscode-import-cost)
+[![](./images/vscode/10.png)](https://marketplace.visualstudio.com/items?itemname=wix.vscode-import-cost)
 <br />
 
 패키지의 크기를 인라인으로 표시합니다.
 
-![](./images/11.gif)
+![](./images/vscode/11.gif)
 <br />
 
 패키지 크기를 표시하여 효율적인 `import` 혹은 `require`를 한다.
 
 <br />
-
 <hr />
 
 ### **▸ Indenticator**
 
-[![](./images/12.png)](https://marketplace.visualstudio.com/items?itemname=sirtori.indenticator)
+[![](./images/vscode/12.png)](https://marketplace.visualstudio.com/items?itemname=sirtori.indenticator)
 <br />
 
 들여 쓰기 깊이를 시각적으로 강조 표시 합니다.
 
-![](./images/13.gif)
+![](./images/vscode/13.gif)
 <br />
 
 시각적인 표시로 코드를 이쁘게 작성하고 읽기도 편리하다.
 
 <br />
-
 <hr />
 
 ### **▸ Live Server**
 
-[![](./images/14.png)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[![](./images/vscode/14.png)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 <br />
 
 정적 및 동적 페이지를 위한 라이브 리로드 기능을 갖춘 개발 로컬 서버 서비스
 
-![](./images/15.gif)
+![](./images/vscode/15.gif)
 <br />
 
 정적 페이지를 라이브 로드로 실시간 업데이트가 편리하다.
 
 <br />
-
 <hr />
 
 ### **▸ Material Icon Theme VS vscode-icons**
@@ -179,25 +172,25 @@ category: 'VS Code'
 
 #### **▸ Material Icon Theme**
 
-[![](./images/16.png)](https://marketplace.visualstudio.com/items?itemname=pkief.material-icon-theme)
+[![](./images/vscode/16.png)](https://marketplace.visualstudio.com/items?itemname=pkief.material-icon-theme)
 <br />
 
 **File icons**
 
-![](./images/17.png)
+![](./images/vscode/17.png)
 <br />
 
 **Folder icons**
 
-![](./images/18.png)
+![](./images/vscode/18.png)
 <br />
 
 #### **▸ vscode-icons**
 
-[![](./images/19.png)](https://marketplace.visualstudio.com/items?itemname=vscode-icons-team.vscode-icons)
+[![](./images/vscode/19.png)](https://marketplace.visualstudio.com/items?itemname=vscode-icons-team.vscode-icons)
 <br />
 
-![](./images/20.gif)
+![](./images/vscode/20.gif)
 <br />
 
 원하시는 파일, 폴더 아이콘을 보시고
@@ -207,38 +200,36 @@ category: 'VS Code'
 또한, 그밖에 [테마 링크](https://marketplace.visualstudio.com/search?term=icon%20theme&target=VSCode&category=Themes&sortBy=Relevance)를 통해서 설치도 가능합니다.
 
 <br />
-
 <hr />
 
 ### **▸ npm**
 
-[![](./images/21.png)](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+[![](./images/vscode/21.png)](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 <br />
 
 `package.json`파일에 정의 된 npm 스크립트를 실행하고,
 
 정의 된 패키지에 대해 설치된 모듈의 유효성 검사를 합니다.
 
-![](./images/22.png)
+![](./images/vscode/22.png)
 <br />
 
-![](./images/23.png)
+![](./images/vscode/23.png)
 <br />
 
 패키지 관리에 편리성을 제공한다.
 
 <br />
-
 <hr />
 
 ### **▸ Polacode**
 
-[![](./images/24.png)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+[![](./images/vscode/24.png)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 <br />
 
 코드를 폴라로이드 형식의 캡쳐 지원 서비스
 
-![](./images/25.gif)
+![](./images/vscode/25.gif)
 <br />
 
 `CMD + Shift + P > Polacode` 로 실행
@@ -246,24 +237,23 @@ category: 'VS Code'
 해당 소스를 드래그하여 캡쳐한다.
 
 <br />
-
 <hr />
 
 ### **▸ Prettier - Code formatter**
 
-[![](./images/26.png)](ttps://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+[![](./images/vscode/26.png)](ttps://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 <br />
 
 일관된 스타일을 적용하는 코드 포맷터입니다.
 
 **before**
 
-![](./images/27.png)
+![](./images/vscode/27.png)
 <br />
 
 **after**
 
-![](./images/28.png)
+![](./images/vscode/28.png)
 <br />
 
 위 처럼 코드를 자동으로 세미콜론 및 정렬을 해줍니다.
@@ -279,29 +269,28 @@ category: 'VS Code'
 그러면 `CMD + K + F` 명령어를 통해 자동으로 formatter 적용
 
 <br />
-
 <hr />
 
 ### **▸ REST Client**
 
-[![](./images/29.png)](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+[![](./images/vscode/29.png)](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 <br />
 
 HTTP 요청을 보내고 직접 응답을 확인 할 수 있습니다.
 
 **REST**
 
-![](./images/30.png)
+![](./images/vscode/30.png)
 <br />
 
 **Router**
 
-![](./images/31.png)
+![](./images/vscode/31.png)
 <br />
 
 **Response**
 
-![](./images/32.png)
+![](./images/vscode/32.png)
 <br />
 
 `Postman` 이나 `테스트 프레임워크`를 사용하지 않아도
@@ -309,17 +298,16 @@ HTTP 요청을 보내고 직접 응답을 확인 할 수 있습니다.
 vscode에서 직접 응답을 확인 할 수 있다.
 
 <br />
-
 <hr />
 
 ### **▸ Version Lens**
 
-[![](./images/33.png)](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+[![](./images/vscode/33.png)](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 <br />
 
 npm 패키지 버전 정보를 표시 합니다.
 
-![](./images/34.gif)
+![](./images/vscode/34.gif)
 <br />
 
 버전 텍스트를 바꾸지만 패키지는 자동으로 변경되지 않습니다.
@@ -340,7 +328,7 @@ npm 패키지 버전 정보를 표시 합니다.
 
 그러므로 자신이 원하는 모듈을 설치해보고 사용해보시는걸 권장합니다.
 
-10월에도 좋은 자료로 여러분을 찾아뵙겠습니다.
+다음에도 좋은 자료로 여러분을 찾아뵙겠습니다.
 
 감사합니다.
 

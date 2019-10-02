@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/pm2/logo.png)
 
-<center><strong style="color:#3EB1F3">노드 프로세스</strong>를 관리해주는 라이브러리</center>
+<center><strong style="color:#3EB1F3; font-size: 20px;">노드 프로세스</strong>를 관리해주는 라이브러리</center>
 
 ## **💎 목차**
 
@@ -33,8 +33,9 @@ $ pm2 -v
 
 ```
 
-- pm2 버전 확인
+pm2 버전 확인
 
+<br />
 <hr />
 
 ### ▸ pm2 start <id|name>
@@ -52,8 +53,9 @@ $ pm2 start ./bin/www
 
 ```
 
-- 프로세스 실행
+프로세스 실행
 
+<br />
 <hr />
 
 ### ▸ pm2 stop <id|name>
@@ -71,8 +73,9 @@ $ pm2 stop www
 
 ```
 
-- 프로세스 중지
+프로세스 중지
 
+<br />
 <hr />
 
 ### ▸ pm2 restart <id|name>
@@ -91,8 +94,9 @@ Use --update-env to update environment variables
 
 ```
 
-- 프로세스 재시작
+프로세스 재시작
 
+<br />
 <hr />
 
 ### ▸ pm2 delete <id|name>
@@ -108,8 +112,9 @@ $ pm2 delete www
 
 ```
 
-- 프로세스 제거
+프로세스 제거
 
+<br />
 <hr />
 
 ### ▸ pm2 list
@@ -125,8 +130,9 @@ $ pm2 list
 
 ```
 
-- 프로세스 목록
+프로세스 목록
 
+<br />
 <hr />
 
 ### ▸ pm2 show <id|name>
@@ -187,8 +193,9 @@ $ pm2 show www
 
 ```
 
-- 프로세스 상세 조회
+프로세스 상세 조회
 
+<br />
 <hr />
 
 ### ▸ pm2 log
@@ -219,8 +226,9 @@ PM2        | 2019-09-11T14:44:29: PM2 log: App [www:0] online
 
 ```
 
-- 프로세스 로그파일 확인
+프로세스 로그파일 확인
 
+<br />
 <hr />
 
 ### ▸ pm2 log <id|name>
@@ -234,8 +242,9 @@ $ pm2 log www
 
 ```
 
-- 특정 프로세스의 로그파일 확인
+특정 프로세스의 로그파일 확인
 
+<br />
 <hr />
 
 ### ▸ pm2 flush
@@ -251,8 +260,9 @@ $ pm2 flush
 
 ```
 
-- 로그파일 삭제
+로그파일 삭제
 
+<br />
 <hr />
 
 ### ▸ pm2 monit
@@ -312,7 +322,7 @@ $ pm2 flush
 
 ```
 
-- 프로세스 실시간 모니터링
+프로세스 실시간 모니터링
 
 <br />
 
@@ -338,14 +348,13 @@ $ pm2 start ./bin/www -i 2
 
 ```
 
-- 클러스터 모드로 CPU를 최대한 활용
+클러스터 모드로 CPU를 최대한 활용
 
-- `-i` 옵션을 사용하면 클러스터 모드로 실행
+`-i` 옵션은 클러스터 모드로 실행하며 뒤에 인스턴스 개수를 지정 가능
 
-- `-i` 뒤에 실행할 인스턴스의 개수를 지정
+`0`을 지정할 경우 사용 가능한 CPU 개수만큼 실행
 
-- `0`을 지정할 경우 사용 가능한 CPU 개수만큼 실행
-
+<br />
 <hr />
 
 #### ▸ pm2 reload <id|name>
@@ -360,8 +369,9 @@ Use --update-env to update environment variables
 
 ```
 
-- 클러스터 모드에 사용할 경우 다운타임 없이 서버를 재기동할 수 있다.
+클러스터 모드에 사용할 경우 다운타임 없이 서버를 재기동할 수 있다.
 
+<br />
 <hr />
 
 ### ▸ Ecosystem File
@@ -372,7 +382,7 @@ $ pm2 ecosystem
 
 ```
 
-- pm2 설정 파일 생성
+pm2 설정 파일 생성
 
 <br />
 
@@ -381,17 +391,17 @@ $ pm2 ecosystem
 ![](./images/pm2/1.png)
 <br />
 
-- `name` 실행한 프로세스 이름
+`name` 실행한 프로세스 이름
 
-- `script` 실행할 파일 경로
+`script` 실행할 파일 경로
 
-- `watch` 파일 변경시 자동으로 재실행 여부 (true, false)
+`watch` 파일 변경시 자동으로 재실행 여부 (true, false)
 
-- `exec_mode` 실행 모드 (cluster, fork)
+`exec_mode` 실행 모드 (cluster, fork)
 
-- `instances` cluster로 실행시 인스턴스 개수
+`instances` cluster로 실행시 인스턴스 개수
 
-- `env` 환경변수
+`env` 환경변수로 PORT, NODE_ENV 같은 precess.env.{} 설정
 
 <br />
 

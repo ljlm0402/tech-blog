@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/nodemailer/logo.png)
 
-<center><strong style="color:#1FB674">이메일</strong> 발송을 위한 라이브러리</center>
+<center><strong style="color:#1FB674; font-size: 20px;">이메일</strong> 발송을 위한 라이브러리</center>
 
 ## **💎 목차**
 
@@ -45,6 +45,7 @@ $ npm install nodemailer
 ![](./images/nodemailer/1.result.png)
 <br />
 
+<br />
 <hr />
 
 ### ▸ ejs
@@ -71,6 +72,7 @@ $ npm install ejs
 ![](./images/nodemailer/2.result.png)
 <br />
 
+<br />
 <hr />
 
 ### ▸ html-pdf
@@ -106,6 +108,7 @@ $ npm install html-pdf
 ![](./images/nodemailer/3-2.result.png)
 <br />
 
+<br />
 <hr />
 
 ### ▸ error

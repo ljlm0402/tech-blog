@@ -6,7 +6,7 @@ category: 'Coding Test'
 
 ![](./images/logo.png)
 
-<center><strong>2020 KAKAO BLIND RECRUITMENT</strong></center>
+<center><strong style="font-size: 20px;">2020 KAKAO BLIND RECRUITMENT</strong></center>
 
 <br />
 

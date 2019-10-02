@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/socket-io/logo.png)
 
-<center><strong>실시간</strong>으로 상호작용하는 서비스</center>
+<center><strong style="font-size: 20px;">실시간</strong>으로 상호작용하는 서비스</center>
 
 ## **💎 목차**
 

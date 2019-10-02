@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/puppeteer/logo.png)
 
-<center><strong style="color:#05D197">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
+<center><strong style="color:#05D197; font-size: 20px;">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
 
 ## **💎 목차**
 
@@ -29,8 +29,9 @@ $ npm install puppeteer
 ![](./images/puppeteer/1.png)
 <br />
 
-- 스크린샷을 저장한다.
+스크린샷을 저장한다.
 
+<br />
 <hr />
 
 ### ▸ pdf
@@ -38,8 +39,9 @@ $ npm install puppeteer
 ![](./images/puppeteer/2.png)
 <br />
 
-- PDF 파일을 저장한다.
+PDF 파일을 저장한다.
 
+<br />
 <hr />
 
 ### ▸ emulate devices
@@ -47,8 +49,9 @@ $ npm install puppeteer
 ![](./images/puppeteer/3.png)
 <br />
 
-- 디바이스 모드로 전환한다.
+디바이스 모드로 전환한다.
 
+<br />
 <hr />
 
 ### ▸ setCookie
@@ -56,8 +59,9 @@ $ npm install puppeteer
 ![](./images/puppeteer/4.png)
 <br />
 
-- 쿠키를 설정한다.
+쿠키를 설정한다.
 
+<br />
 <hr />
 
 ### ▸ tracing
@@ -65,7 +69,7 @@ $ npm install puppeteer
 ![](./images/puppeteer/5.png)
 <br />
 
-- 접속 브라우저 정보를 추적한다.
+접속 브라우저 정보를 추적한다.
 
 <br />
 

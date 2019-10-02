@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/dotenv/logo.png)
 
-<center><strong>환경변수</strong>를 관리할 수 있는 라이브러리</center>
+<center><strong style="color:#7B828B; font-size: 20px;">환경변수</strong>를 관리할 수 있는 라이브러리</center>
 
 ## **💎 목차**
 

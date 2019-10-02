@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/swagger/logo.png)
 
-<center>개발자가 <strong style="color:#93BB53">RESTful 웹 서비스를 설계, 빌드, 문서화</strong>를 도와주는 프레임 워크</center>
+<center>개발자가 <strong style="color:#93BB53; font-size: 20px;">RESTful 웹 서비스를 설계, 빌드, 문서화</strong>를 도와주는 프레임 워크</center>
 
 ## **💎 목차**
 
@@ -33,12 +33,11 @@ $ npm install swagger-ui-express
 ![](./images/swagger/1.png)
 <br />
 
-- `app.use()` 라우트 경로 지정 할때,
+`app.use()` 라우트 경로 지정 할때,
 
-- `swaggerUi.serve, swaggerUi.setup(swaggerJSDoc()` swaager 환경 파일 지정
+`swaggerUi.serve, swaggerUi.setup(swaggerJSDoc()` swaager 환경 파일 지정
 
 <br />
-
 <hr />
 
 ### ▸ /lib/swagger.js
@@ -53,7 +52,6 @@ $ npm install swagger-ui-express
 - `apis` request 라우터 경로
 
 <br />
-
 <hr />
 
 ### ▸ /routes/index.js
@@ -80,14 +78,14 @@ $ npm install swagger-ui-express
 
 ```
 
-- 경로를 통해 데이터를 요청해서 해당 응답 코드에 맞게 제공
+경로를 통해 데이터를 요청해서 해당 응답 코드에 맞게 제공
 
 <br />
 
 ![](./images/swagger/4.gif)
 <br />
 
-- Swagger UI를 통한 결과물이다.
+Swagger UI를 통한 결과물이다.
 
 <br />
 
