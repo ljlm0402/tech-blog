@@ -120,9 +120,9 @@ http://example.org/getdata.php?callback=myHandler
 ### ▸ 웹 페이지 로딩 전략
 
 - script 태그에 들어가는 엘리멘트를 살펴보자
-  - `<script type='text/javascript'>` => HTML5에서는 필수 속성이 아니다.
+  - `<script type='text/javascript'>` ⇨ HTML5에서는 필수 속성이 아니다.
   - 마크업 유효성 검사를 위한 경우가 아니라면 사용하지 않는다.
-  - `async(defer)` => 비동기 스크립트 로딩으로, 스크립트를 받는 동안 다른 다운로드를 방해하지 않는다.
+  - `async(defer)` ⇨ 비동기 스크립트 로딩으로, 스크립트를 받는 동안 다른 다운로드를 방해하지 않는다.
 
 <br />
 
