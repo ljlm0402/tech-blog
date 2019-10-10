@@ -54,6 +54,7 @@ uuidv3('http://example.com/hello', uuidv3.URL) // ⇨ c6235813-3ba4-3801-ae84-e0
 
 ```js
 const uuidv4 = require('uuid/v4')
+
 uuidv4() // ⇨ 1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4bed
 ```
 
