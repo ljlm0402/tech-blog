@@ -22,6 +22,12 @@ $ npm install exceljs
 
 ```
 
+<br />
+
+**[⬆ 목차](#-목차)**
+
+<hr />
+
 ## **😳 코드를 보며**
 
 ![](./images/exceljs/1.png)
@@ -37,14 +43,16 @@ $ npm install exceljs
 
 <br />
 
+![](./images/exceljs/2.png)
+<br />
+
 Excel 파일입니다.
 
-![](./images/exceljs/2.png)
 <br />
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -68,7 +76,7 @@ $ npm install readline-sync
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

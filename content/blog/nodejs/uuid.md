@@ -22,6 +22,12 @@ $ npm install uuid
 
 ```
 
+<br />
+
+**[⬆ 목차](#-목차)**
+
+<hr />
+
 ## **😳 코드를 보며**
 
 ### **▸ Version 1 (timestamp)**
@@ -77,7 +83,7 @@ uuidv5('http://example.com/hello', uuidv5.URL) // ⇨ 3bbcee75-cecc-5b56-8031-b6
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -99,7 +105,7 @@ uuidv5('http://example.com/hello', uuidv5.URL) // ⇨ 3bbcee75-cecc-5b56-8031-b6
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

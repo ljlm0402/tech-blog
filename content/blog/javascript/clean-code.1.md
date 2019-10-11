@@ -36,7 +36,7 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **😳 코드를 보며**
 
@@ -51,7 +51,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ DEEP NESTING (깊게 중첩 된 코드)
 
@@ -64,7 +64,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ LARGE FUNCTIONS (길게 늘여 놓은 함수)
 
@@ -77,7 +77,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ CODE REPETITION (반복되는 코드)
 
@@ -90,7 +90,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ COMPLEX EXPRESSIONS (복잡한 표현식)
 
@@ -105,7 +105,7 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -123,7 +123,7 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

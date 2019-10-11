@@ -21,6 +21,8 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
+<hr />
+
 ## **😳 코드를 보며**
 
 ### ▸ 싱글톤 패턴
@@ -31,7 +33,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/1.png)
 <br />
 
----
+<hr />
 
 ### ▸ 팩토리 패턴
 
@@ -43,7 +45,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/2.png)
 <br />
 
----
+<hr />
 
 ### ▸ Iterator 패턴
 
@@ -57,7 +59,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/4.png)
 <br />
 
----
+<hr />
 
 ### ▸ Decorator 패턴
 
@@ -76,7 +78,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/7.png)
 <br />
 
----
+<hr />
 
 ### ▸ 프록시 패턴
 
@@ -96,7 +98,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ Mediator 패턴
 
@@ -107,7 +109,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/10.png)
 <br />
 
----
+<hr />
 
 ### ▸ Observer 패턴
 
@@ -119,9 +121,11 @@ category: 'JavaScript'
 ![](./images/design-pattern/2/11.png)
 <br />
 
+<br />
+
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

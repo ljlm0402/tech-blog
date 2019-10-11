@@ -21,6 +21,8 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
+<hr />
+
 ## **😳 코드를 보며**
 
 ### ▸ DOM 접근
@@ -41,7 +43,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ DOM 조작
 
@@ -57,7 +59,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/3/4.png)
 <br />
 
----
+<hr />
 
 ### ▸ 이벤트
 
@@ -70,7 +72,7 @@ category: 'JavaScript'
 
 <br />
 
----
+<hr />
 
 ### ▸ XMLHttpRequest
 
@@ -92,7 +94,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/3/8.png)
 <br />
 
----
+<hr />
 
 ### ▸ JSONP
 
@@ -115,7 +117,7 @@ http://example.org/getdata.php?callback=myHandler
 
 <br />
 
----
+<hr />
 
 ### ▸ 웹 페이지 로딩 전략
 
@@ -128,7 +130,7 @@ http://example.org/getdata.php?callback=myHandler
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

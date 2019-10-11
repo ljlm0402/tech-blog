@@ -21,6 +21,8 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
+<hr />
+
 ## **😳 코드를 보며**
 
 ### ▸ 네임스페이스 패턴
@@ -52,7 +54,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/1/3.png)
 <br />
 
----
+<hr />
 
 ### ▸ 의존 관계 선언
 
@@ -73,7 +75,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/1/5.png)
 <br />
 
----
+<hr />
 
 ### ▸ 비공개 프로퍼티와 메서드
 
@@ -89,7 +91,7 @@ category: 'JavaScript'
 ![](./images/design-pattern/1/7.png)
 <br />
 
----
+<hr />
 
 ### ▸ 모듈 패턴
 
@@ -125,9 +127,11 @@ category: 'JavaScript'
 ![](./images/design-pattern/1/11.png)
 <br />
 
+<br />
+
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

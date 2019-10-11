@@ -30,7 +30,7 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **😳 코드를 보며**
 
@@ -84,9 +84,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/7.png)
 <br />
 
+<br />
+
 **[⬆ 변수](#▸-변수variables)**
 
----
+<hr />
 
 ### **▸ 함수(Functions)**
 
@@ -237,12 +239,13 @@ category: 'JavaScript'
 - 호출되지 않는 코드가 있다면 그 코드를 지우세요.
 
 ![](./images/clean-code/2/25.png)
+<br />
 
 <br />
 
 **[⬆ 함수](#▸-함수functions)**
 
----
+<hr />
 
 ### **▸ 객체와 자료구조(Objects and Data Structures)**
 
@@ -270,9 +273,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/27.png)
 <br />
 
+<br />
+
 **[⬆ 객체와 자료구조](#▸-객체와-자료구조objects-and-data-structures)**
 
----
+<hr />
 
 ### **▸ 클래스(Classes)**
 
@@ -362,9 +367,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/35.png)
 <br />
 
+<br />
+
 **[⬆ 클래스](#▸-클래스classes)**
 
----
+<hr />
 
 ### **▸ 테스트(Testing)**
 
@@ -377,9 +384,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/36.png)
 <br />
 
+<br />
+
 **[⬆ 테스트](#▸-테스트testing)**
 
----
+<hr />
 
 ### **▸ 동시성(Concurrency)**
 
@@ -403,9 +412,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/38.png)
 <br />
 
+<br />
+
 **[⬆ 동시성](#▸-동시성concurrency)**
 
----
+<hr />
 
 ### **▸ 에러 처리(Error Handling)**
 
@@ -433,9 +444,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/40.png)
 <br />
 
+<br />
+
 **[⬆ 에러 처리](#▸-에러-처리error-handling)**
 
----
+<hr />
 
 ### **▸ 포맷팅(Formatting)**
 
@@ -463,9 +476,11 @@ category: 'JavaScript'
 ![](./images/clean-code/2/42.png)
 <br />
 
+<br />
+
 **[⬆ 포맷팅](#▸-포맷팅formatting)**
 
----
+<hr />
 
 ### **▸ 주석(Comments)**
 
@@ -502,15 +517,17 @@ category: 'JavaScript'
 ![](./images/clean-code/2/46.png)
 <br />
 
+<br />
+
 **[⬆ 주석](#▸-주석comments)**
 
----
+<hr />
 
 <br />
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -534,7 +551,7 @@ category: 'JavaScript'
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

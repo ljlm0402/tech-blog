@@ -22,6 +22,12 @@ $ npm install nodemailer
 
 ```
 
+<br />
+
+**[⬆ 목차](#-목차)**
+
+<hr />
+
 ## **😳 코드를 보며**
 
 ![](./images/nodemailer/1.example.png)
@@ -133,7 +139,7 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -152,14 +158,16 @@ Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more a
 
 <br />
 
-**전송 결과**
-
 ![](./images/nodemailer/4.result.png)
+<br />
+
+전송 결과입니다.
+
 <br />
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 

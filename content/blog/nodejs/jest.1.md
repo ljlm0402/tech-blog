@@ -36,6 +36,12 @@ $ npm install -D jest
 
 ```
 
+<br />
+
+**[⬆ 목차](#-목차)**
+
+<hr />
+
 ## **😳 코드를 보며**
 
 `toXxx()` 부분에서 사용되는 함수를 흔히 Test Mathcher라고 합니다.
@@ -44,7 +50,7 @@ $ npm install -D jest
 
 ### ▸ toBe()
 
-![](./images/jest/1.png)
+![](./images/jest/1/1.png)
 <br />
 
 ```js
@@ -67,7 +73,7 @@ Ran all test suites.
 
 ### ▸ toEqual()
 
-![](./images/jest/2.png)
+![](./images/jest/1/2.png)
 <br />
 
 ```js
@@ -90,7 +96,7 @@ Ran all test suites.
 
 ### ▸ toBeTruthy(), toBeFalsy()
 
-![](./images/jest/3.png)
+![](./images/jest/1/3.png)
 <br />
 
 ```js
@@ -123,7 +129,7 @@ true와 false가 boolean 타입에 한정되지 않습니다.
 
 ### ▸ toHaveLength(), toContain()
 
-![](./images/jest/4.png)
+![](./images/jest/1/4.png)
 <br />
 
 ```js
@@ -152,7 +158,7 @@ Ran all test suites.
 
 ### ▸ toMatch()
 
-![](./images/jest/5.png)
+![](./images/jest/1/5.png)
 <br />
 
 ```js
@@ -178,7 +184,7 @@ Ran all test suites.
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 ## **🤔 생각해 보며**
 
@@ -192,7 +198,7 @@ Ran all test suites.
 
 **[⬆ 목차](#-목차)**
 
----
+<hr />
 
 <br />
 
