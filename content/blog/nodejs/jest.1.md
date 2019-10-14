@@ -6,7 +6,7 @@ category: 'Node Js'
 
 ![](./images/jest/logo.png)
 
-<center>페이스북에서 만든<strong style="color:#D52B00; font-size: 20px;">테스트 프레임워크</strong>입니다.</center>
+<center>페이스북에서 만든 <strong style="color:#D52B00; font-size: 20px;">테스트 프레임워크</strong> 입니다.</center>
 
 ## **💎 목차**
 
