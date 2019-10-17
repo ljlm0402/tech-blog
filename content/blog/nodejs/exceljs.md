@@ -1,5 +1,5 @@
 ---
-title: ' 엑셀 📗 ▻ exceljs'
+title: ' 스프레드 시트 📊 ▻ exceljs'
 date: 2019-09-10 15:15:00
 category: 'Node Js'
 ---

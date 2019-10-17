@@ -8,7 +8,7 @@ module.exports = {
     twitter: ``, // Your Twitter account
     github: `https://github.com/ljlm0402`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
+    facebook: `https://www.facebook.com/groups/765872100510405`, // Your Facebook account
   },
   icon: `assets/profile.jpeg`, // Add your favicon
   keywords: [`blog`],
@@ -20,7 +20,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'agumon',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
