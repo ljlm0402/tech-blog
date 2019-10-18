@@ -1,6 +1,6 @@
 ---
 title: ' mongoDB 📗 ▻ mongoose 1탄 '
-date: 2019-10-15 10:22:00
+date: 2019-10-17 10:22:00
 category: 'Node Js'
 ---
 
