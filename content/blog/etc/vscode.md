@@ -222,6 +222,23 @@ category: 'VS Code'
 <br />
 <hr />
 
+### **▸ Peacock**
+
+[![](./images/vscode/35.png)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+<br />
+
+워크스페이스 색상을 변경해줍니다.
+
+![](./images/vscode/36.png)
+<br />
+
+`CMD + Shift + P > Peacock: Enter a Color` 후
+
+원하시는 색상을 입력하시면 됩니다.
+
+<br />
+<hr />
+
 ### **▸ Polacode**
 
 [![](./images/vscode/24.png)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
