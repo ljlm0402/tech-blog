@@ -1,6 +1,6 @@
 <!-- ---
 title: ' mysql 📘 ▻ sequelize '
-date: 2019-10-16 10:22:00
+date: 2019-10-22 10:22:00
 category: 'Node Js'
 ---
 
