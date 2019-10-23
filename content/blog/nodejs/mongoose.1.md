@@ -114,11 +114,11 @@ Starting mongodb ... done
 
 이 처럼 몽고디비가 시작됬다는 커맨더가 생깁니다.
 
-`Robo 3T`라는 mongoDB GUI 툴을 통해 몽고디비가 설치되었는지 확인하도록 하겠습니다.
+[Robo 3T](https://robomongo.org/download)라는 mongoDB GUI 툴을 통해 몽고디비가 설치되었는지 확인하도록 하겠습니다.
 
 <br />
 
-[![](./images/mongoose/1/4.png)](https://robomongo.org/download)
+![](./images/mongoose/1/4.png)
 <br />
 
 우측 하단 `Donwload Robo 3T` 버튼을 클릭 후 설치 & 실행합니다.
@@ -198,9 +198,9 @@ app.js에서 require를 통해 가져오시셔서 `connection()`
 
 오늘 배운 내용을 정리하면
 
-1. Docker를 이용한 mongoDB 사용
+1. docker-compose 이용한 mongoDB 설치
 
-2. mongoDB 연동
+2. mongoose를 사용하여 mongoDB 연동
 
 **2탄** 에서는 `mongoDB를 활용한 REST API 만들기` 해보겠습니다.
 
