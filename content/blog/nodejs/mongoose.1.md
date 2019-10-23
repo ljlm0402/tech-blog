@@ -4,9 +4,9 @@ date: 2019-10-17 10:22:00
 category: 'Node Js'
 ---
 
-![](./images/mongoose/logo.png)
+![](./images/mongoose/logo.jpg)
 
-<center>mongoDB를 위한 <strong style="color:#3D291A; font-size: 20px;">ODM(Object-Document-Mapping)</strong> 라이브러리</center>
+<center><strong style="color:#3D291A; font-size: 20px;">ODM(Object-Document-Mapping)</strong> 라이브러리</center>
 
 ## **💎 목차**
 
