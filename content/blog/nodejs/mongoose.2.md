@@ -24,7 +24,7 @@ category: 'Node Js'
 
 1탄에서 배운 내용으로는
 
-1. Docker를 통한 mongoDB 설치
+1. docker-compose 사용하여 mongoDB 설치
 
 2. mongoose를 이용한 mongoDB 연동
 
@@ -195,13 +195,12 @@ $ npm install mongoose-sequence
 
 1. `new mongoose.Schema()` 스키마를 정의해줍니다.
 
-   - title : { 타입 : 문자열, 필수값 }
-
-   - name : { 타입 : 문자열, 필수값 }
-
-   - date : { 타입 : 시간, 기본값 선언 }
-
-   - content : { 타입 : 문자열, 필수값 }
+| 필드명  | 타입   | 기타          |
+| :------ | :----- | :------------ |
+| title   | 문자형 | 필수 값       |
+| name    | 문자형 | 필수 값       |
+| date    | 시간   | 기본 값 now() |
+| content | 문자형 | 필수값        |
 
 2. `collection` 콜렉션 네임은 SQL에서 테이블 명이라고 생각하시면 됩니다.
 
@@ -218,7 +217,7 @@ $ npm install mongoose-sequence
 
 ### ▸ 컨트롤러 생성하기
 
-[mongoose API Query](https://mongoosejs.com/docs/api/query.html)에 참고하시기 바랍니다.
+[mongoose API Query](https://mongoosejs.com/docs/api/query.html) 참고하시기 바랍니다.
 
 #### ▸ find(), findOne()
 
@@ -278,7 +277,7 @@ findOne() + Delete() 함수로 데이터를 찾아 삭제합니다.
 
 4. 컨트롤러 생성하기
 
-마지막 **3탄** 에서는 `게시판 만들기` 해보겠습니다.
+마지막 **3탄** 에서는 `화면 구성하기` 해보겠습니다.
 
 <br />
 
