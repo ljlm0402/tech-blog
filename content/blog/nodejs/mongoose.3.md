@@ -65,7 +65,7 @@ $ npm install ejs
 
 <br />
 
-**routes/index.js**
+**routes - index.js**
 
 ![](./images/mongoose/3/2.png)
 <br />
@@ -74,7 +74,7 @@ $ npm install ejs
 
 <br />
 
-**views/board.ejs**
+**views - board.ejs**
 
 ![](./images/mongoose/3/3.png)
 <br />
@@ -89,7 +89,7 @@ $ npm install ejs
 
 <br />
 
-**js/board.js**
+**js - board.js**
 
 ![](./images/mongoose/3/4.png)
 <br />
