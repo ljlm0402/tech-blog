@@ -123,6 +123,6 @@ $ npm install readline-sync
 
 > 출처
 >
-> <a href="https://github.com/bynodejs/crawling" target="_blank">GitHub > crawling</a>
+> <a href="https://github.com/bynodejs/puppeteer" target="_blank">GitHub > puppeteer</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
