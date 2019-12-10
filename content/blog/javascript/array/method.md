@@ -1,10 +1,10 @@
 ---
-title: ' 자바스크립트 메서드 1탄 ▻ 배열 '
+title: ' 자바스크립트 ▻ 배열 메소드 '
 date: 2019-10-29 11:09:15
 category: 'JavaScript'
 ---
 
-![](./images/method/array/logo.png)
+![](./images/method-logo.png)
 
 ## **💎 목차**
 
