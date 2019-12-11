@@ -175,8 +175,8 @@ for (let i = 0; i < array.length; i++) {
 */
 
 /* forEach() */
-array.forEach(e => {
-  console.log(e)
+array.forEach(arr => {
+  console.log(arr)
 })
 
 /* result
@@ -200,8 +200,8 @@ array.forEach(e => {
 ```js
 let array = [1, 2, 3, 4, 5]
 
-array.map(e => {
-  return e * 2
+array.map(arr => {
+  return arr * 2
 })
 
 // result : [ 2, 3, 6, 8, 10 ]
@@ -409,13 +409,13 @@ names.indexOf('choi')
 ```js
 let names = ['lim', 'kim', 'park']
 
-console.log(names.includes('lim'))
+names.includes('lim')
 // result : true
 
-console.log(names.includes('lim', 1))
+names.includes('lim', 1)
 // result : false 배열 1번 부터 검색을 하여 포함하는 값이 없다.
 
-console.log(names.includes('choi'))
+names.includes('choi')
 // result : false
 ```
 

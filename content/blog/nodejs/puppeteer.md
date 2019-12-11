@@ -1,12 +1,12 @@
 ---
-title: ' 크롤링 👣 ▻ puppeteer'
+title: ' 크롤링 👣 ▻ puppeteer '
 date: 2019-08-21 20:38:00
 category: 'Node Js'
 ---
 
 ![](./images/puppeteer/logo.png)
 
-<center><strong style="color:#05D197; font-size: 20px;">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리이다.</center>
+<center><strong style="color:#05D197; font-size: 20px;">Headless Chrome</strong> 쉽게 사용할 수 있는 Node Js 라이브러리</center>
 
 ## **💎 목차**
 

@@ -1,12 +1,12 @@
 ---
-title: ' 스프레드 시트 📊 ▻ exceljs'
+title: ' 스프레드 시트 📊 ▻ exceljs '
 date: 2019-09-10 15:15:00
 category: 'Node Js'
 ---
 
 ![](./images/exceljs/logo.png)
 
-<center><strong style="color:#3C734B; font-size: 20px;">스프레드 시트</strong>을 쉽게 읽고 조작할 수 있는 라이브러리이다.</center>
+<center><strong style="color:#3C734B; font-size: 20px;">스프레드 시트</strong>을 쉽게 읽고 조작할 수 있는 라이브러리</center>
 
 ## **💎 목차**
 
