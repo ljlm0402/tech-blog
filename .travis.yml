@@ -4,7 +4,7 @@ os:
   - osx
 node_js:
   - 'lts/*'
-  - '10'
+  - '12'
 before_install:
   - npm install -g npm@latest
 install:
