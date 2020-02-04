@@ -1,8 +1,8 @@
 module.exports = {
-  title: `경민, 블로그`,
+  title: `아구몬`,
   description: `Develop Blog`,
   author: `[AGUMON]`,
-  introduction: `경민이의 기술 블로그`,
+  introduction: `아구몬 기술 블로그`,
   siteUrl: `https://ljlm0402.netlify.com/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
