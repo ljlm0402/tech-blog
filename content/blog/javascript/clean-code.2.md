@@ -558,6 +558,5 @@ category: 'JavaScript'
 > 출처
 >
 > <a href="https://github.com/qkraudghgh/clean-code-javascript-ko" target="_blank">github > clean-code-javascript-ko</a><br />
-> <a href="https://github.com/ts-for-js/ts-refactoring" target="_blank">github > ts-refactoring</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧
