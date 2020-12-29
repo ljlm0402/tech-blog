@@ -118,7 +118,7 @@ const fetchTitle = async category => {
   return title
 }
 
-module.exports = (async function() {
+module.exports = (async function () {
   const date = dateFns.format(new Date(), DATE_FORMAT)
 
   log.info('Create new post:: ', date)
