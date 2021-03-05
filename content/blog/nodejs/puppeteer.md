@@ -89,13 +89,13 @@ PDF 파일을 저장한다.
 
 ```sh
 
-// HTML DOM Element 접근에 용이한 모듈
+# HTML DOM Element 접근에 용이한 모듈
 $ npm install cheerio
 
-// Excel 파일 생성 모듈
+# Excel 파일 생성 모듈
 $ npm install exceljs
 
-// 콘솔 입력 모듈
+# 콘솔 입력 모듈
 $ npm install readline-sync
 
 ```

@@ -120,6 +120,12 @@ $ npm install base64-img, otplib, qrcode
 
 회원가입을 통해 OTP QR Code를 사용자 메일로 전송
 
+```sh
+
+$ npm install nodemailer
+
+```
+
 ▼ QR Code를 사용자 메일로 전송
 
 ![](./images/otplib/mailer.png)

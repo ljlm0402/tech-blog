@@ -60,7 +60,7 @@ Excel 파일입니다.
 
 ```sh
 
-// 콘솔 입력 모듈
+# 콘솔 입력 모듈
 $ npm install readline-sync
 
 ```

@@ -58,7 +58,7 @@ $ npm install nodemailer
 
 ```sh
 
-// nodejs 템플릿 엔진으로 HTML 형식으로 변환 시키는 모듈이다.
+# nodejs 템플릿 엔진으로 HTML 형식으로 변환 시키는 모듈이다.
 $ npm install ejs
 
 ```
@@ -85,7 +85,7 @@ $ npm install ejs
 
 ```sh
 
-// HTML 형식 파일을 PDF 문서로 변환시키는 모듈이다.
+# HTML 형식 파일을 PDF 문서로 변환시키는 모듈이다.
 $ npm install html-pdf
 
 ```
