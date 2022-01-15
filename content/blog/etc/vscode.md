@@ -35,6 +35,7 @@ category: 'VS Code'
 ## **🌹 본론**
 
 ![](./images/vscode/1.png)
+
 <br />
 
 현재 사용하고 있는 EXTENSIONS는 다음과 같습니다.
@@ -43,12 +44,18 @@ category: 'VS Code'
 
 ### **▸ Bracket Pair Colorizer**
 
-[![](./images/vscode/2.png)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+<a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/2.png)
+
 <br />
 
 대괄호를 색상으로 식별 할 수 있도록 해준다.
 
 ![](./images/vscode/3.png)
+
 <br />
 
 `function` 괄호는 노란색
@@ -64,12 +71,18 @@ category: 'VS Code'
 
 ### **▸ CSS Peek**
 
-[![](./images/vscode/4.png)](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+<a href="https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/4.png)
+
 <br />
 
 클래스와 아이디에 한하여 CSS, SCSS 코드를 살펴볼수 있다.
 
 ![](./images/vscode/5.gif)
+
 <br />
 
 `css` 연동 후 클래스네임을 비춰보면 `style`을 확인할 수 있다.
@@ -79,12 +92,18 @@ category: 'VS Code'
 
 ### **▸ Docker**
 
-[![](./images/vscode/6.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/6.png)
+
 <br />
 
 컨테이너화 된 응용프로그램을 빌드, 관리, 배포를 쉽게 할 수 있다.
 
 ![](./images/vscode/7.gif)
+
 <br />
 
 플랫폼 엔진을 선택하면 자동으로 `Dockerfile`, `docker-compose.yml` 생성
@@ -94,12 +113,18 @@ category: 'VS Code'
 
 ### **▸ GitLens - Git supercharged**
 
-[![](./images/vscode/8.png)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+<a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/8.png)
+
 <br />
 
 라인 또는 코드 블록이 변경된 사람, 이유, 시기를 신속하게 엿볼 수 있습니다.
 
 ![](./images/vscode/9.png)
+
 <br />
 
 - `ljlm0402` 아이디
@@ -115,12 +140,18 @@ category: 'VS Code'
 
 ### **▸ Import Cost**
 
-[![](./images/vscode/10.png)](https://marketplace.visualstudio.com/items?itemname=wix.vscode-import-cost)
+<a href="https://marketplace.visualstudio.com/items?itemname=wix.vscode-import-cost" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/10.png)
+
 <br />
 
 패키지의 크기를 인라인으로 표시합니다.
 
 ![](./images/vscode/11.gif)
+
 <br />
 
 패키지 크기를 표시하여 효율적인 `import` 혹은 `require`를 한다.
@@ -130,12 +161,18 @@ category: 'VS Code'
 
 ### **▸ Indenticator**
 
-[![](./images/vscode/12.png)](https://marketplace.visualstudio.com/items?itemname=sirtori.indenticator)
+<a href="https://marketplace.visualstudio.com/items?itemname=sirtori.indenticator" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/12.png)
+
 <br />
 
 들여 쓰기 깊이를 시각적으로 강조 표시 합니다.
 
 ![](./images/vscode/13.gif)
+
 <br />
 
 시각적인 표시로 코드를 이쁘게 작성하고 읽기도 편리하다.
@@ -145,12 +182,18 @@ category: 'VS Code'
 
 ### **▸ Live Server**
 
-[![](./images/vscode/14.png)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+<a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/14.png)
+
 <br />
 
 정적 및 동적 페이지를 위한 라이브 리로드 기능을 갖춘 개발 로컬 서버 서비스
 
 ![](./images/vscode/15.gif)
+
 <br />
 
 정적 페이지를 라이브 로드로 실시간 업데이트가 편리하다.
@@ -172,25 +215,38 @@ category: 'VS Code'
 
 #### **▸ Material Icon Theme**
 
-[![](./images/vscode/16.png)](https://marketplace.visualstudio.com/items?itemname=pkief.material-icon-theme)
+<a href="https://marketplace.visualstudio.com/items?itemname=pkief.material-icon-theme" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/16.png)
+
 <br />
 
 **File icons**
 
 ![](./images/vscode/17.png)
+
 <br />
 
 **Folder icons**
 
 ![](./images/vscode/18.png)
+
 <br />
 
 #### **▸ vscode-icons**
 
-[![](./images/vscode/19.png)](https://marketplace.visualstudio.com/items?itemname=vscode-icons-team.vscode-icons)
+<a href="https://marketplace.visualstudio.com/items?itemname=vscode-icons-team.vscode-icons" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/19.png)
+
 <br />
 
 ![](./images/vscode/20.gif)
+
 <br />
 
 원하시는 파일, 폴더 아이콘을 보시고
@@ -204,7 +260,12 @@ category: 'VS Code'
 
 ### **▸ npm**
 
-[![](./images/vscode/21.png)](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+<a href="https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/21.png)
+
 <br />
 
 `package.json`파일에 정의 된 npm 스크립트를 실행하고,
@@ -212,9 +273,11 @@ category: 'VS Code'
 정의 된 패키지에 대해 설치된 모듈의 유효성 검사를 합니다.
 
 ![](./images/vscode/22.png)
+
 <br />
 
 ![](./images/vscode/23.png)
+
 <br />
 
 패키지 관리에 편리성을 제공한다.
@@ -224,41 +287,54 @@ category: 'VS Code'
 
 ### **▸ Peacock**
 
-[![](./images/vscode/35.png)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+<a href="https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/35.png)
+
 <br />
 
 워크스페이스 색상을 변경해줍니다.
 
 ![](./images/vscode/36.png)
+
 <br />
 
-`CMD + Shift + P > Peacock: Enter a Color` 후
-
-원하시는 색상을 입력하시면 됩니다.
+`CMD + Shift + P > Peacock: Enter a Color` 후, 원하시는 색상을 입력하시면 됩니다.
 
 <br />
 <hr />
 
 ### **▸ Polacode**
 
-[![](./images/vscode/24.png)](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+<a href="https://marketplace.visualstudio.com/items?itemName=pnp.polacode" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/24.png)
+
 <br />
 
 코드를 폴라로이드 형식의 캡쳐 지원 서비스
 
 ![](./images/vscode/25.gif)
+
 <br />
 
-`CMD + Shift + P > Polacode` 로 실행
-
-해당 소스를 드래그하여 캡쳐한다.
+`CMD + Shift + P > Polacode` 로 실행, 해당 소스를 드래그하여 캡쳐한다.
 
 <br />
 <hr />
 
 ### **▸ Prettier - Code formatter**
 
-[![](./images/vscode/26.png)](ttps://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+<a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/26.png)
+
 <br />
 
 일관된 스타일을 적용하는 코드 포맷터입니다.
@@ -266,11 +342,13 @@ category: 'VS Code'
 **before**
 
 ![](./images/vscode/27.png)
+
 <br />
 
 **after**
 
 ![](./images/vscode/28.png)
+
 <br />
 
 위 처럼 코드를 자동으로 세미콜론 및 정렬을 해줍니다.
@@ -290,7 +368,12 @@ category: 'VS Code'
 
 ### **▸ REST Client**
 
-[![](./images/vscode/29.png)](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+<a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/29.png)
+
 <br />
 
 HTTP 요청을 보내고 직접 응답을 확인 할 수 있습니다.
@@ -298,33 +381,40 @@ HTTP 요청을 보내고 직접 응답을 확인 할 수 있습니다.
 **REST**
 
 ![](./images/vscode/30.png)
+
 <br />
 
 **Router**
 
 ![](./images/vscode/31.png)
+
 <br />
 
 **Response**
 
 ![](./images/vscode/32.png)
+
 <br />
 
-`Postman` 이나 `테스트 프레임워크`를 사용하지 않아도
-
-vscode에서 직접 응답을 확인 할 수 있다.
+`Postman` 이나 `테스트 프레임워크`를 사용하지 않아도, vscode에서 직접 응답을 확인 할 수 있다.
 
 <br />
 <hr />
 
 ### **▸ Version Lens**
 
-[![](./images/vscode/33.png)](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+<a href="https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens" target="_blank">VSC Extension Link</a>
+
+<br />
+
+![](./images/vscode/33.png)
+
 <br />
 
 npm 패키지 버전 정보를 표시 합니다.
 
 ![](./images/vscode/34.gif)
+
 <br />
 
 버전 텍스트를 바꾸지만 패키지는 자동으로 변경되지 않습니다.

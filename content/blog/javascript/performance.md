@@ -335,6 +335,7 @@ _프론트 : ES6 백엔드 : Lodash_
 <br />
 
 > 출처
-> [성능 비교 사이트](https://measurethat.net/)
+>
+> <a href="https://measurethat.net/" target="_blank">성능 비교 사이트</a>
 
 # 여러분의 댓글이 큰힘이 됩니다. (๑•̀ㅂ•́)و✧

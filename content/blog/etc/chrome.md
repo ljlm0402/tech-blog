@@ -45,10 +45,16 @@ category: 'Chrome'
 
 ### **▸ Apollo Client Developer Tools**
 
-[![](./images/chrome/2.png)](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
+<a href="https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/2.png)
+
 <br />
 
 ![](./images/chrome/3.jpg)
+
 <br />
 
 `GraphQL + Apollo`로 개발하시는 분들께 추천드립니다.
@@ -62,10 +68,16 @@ Playground를 자동으로 제공해줍니다.
 
 ### **▸ headingsMap**
 
-[![](./images/chrome/4.png)](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+<a href="https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/4.png)
+
 <br />
 
 ![](./images/chrome/5.png)
+
 <br />
 
 HTML5 구조를 파악해주는 도구입니다.
@@ -75,10 +87,16 @@ HTML5 구조를 파악해주는 도구입니다.
 
 ### **▸ HTML5 Outliner**
 
-[![](./images/chrome/6.png)](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
+<a href="https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/6.png)
+
 <br />
 
 ![](./images/chrome/7.png)
+
 <br />
 
 HTML5 구조를 파악해주는 도구입니다.
@@ -88,13 +106,20 @@ HTML5 구조를 파악해주는 도구입니다.
 
 ### **▸ Lighthouse**
 
-[![](./images/chrome/8.png)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/8.png)
+
 <br />
 
 ![](./images/chrome/9.png)
+
 <br />
 
 ![](./images/chrome/10.png)
+
 <br />
 
 웹 앱의 성능, 품질 및 정확성을 개선하기위한 오픈 소스 자동 도구입니다.
@@ -110,13 +135,20 @@ HTML5 구조를 파악해주는 도구입니다.
 
 ### **▸ Octotree**
 
-[![](./images/chrome/11.png)](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+<a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/11.png)
+
 <br />
 
 ![](./images/chrome/12.jpg)
+
 <br />
 
 ![](./images/chrome/13.png)
+
 <br />
 
 `GitHub`를 사용하시는 분들께 추천드립니다.
@@ -130,10 +162,16 @@ HTML5 구조를 파악해주는 도구입니다.
 
 ### **▸ React Developer Tools**
 
-[![](./images/chrome/14.png)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+<a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/14.png)
+
 <br />
 
 ![](./images/chrome/15.jpg)
+
 <br />
 
 `React` 로 개발하시는 분들께 추천드립니다.
@@ -145,10 +183,16 @@ React 구성 요소 계층을 검사할 수 있는 개발 도구입니다.
 
 ### **▸ Redux DevTools**
 
-[![](./images/chrome/16.png)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+<a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/16.png)
+
 <br />
 
 ![](./images/chrome/17.png)
+
 <br />
 
 `Redux`로 개발하시는 분들께 추천드립니다.
@@ -162,10 +206,16 @@ Redux 개발 워크플로우 제공하는 도구입니다.
 
 ### **▸ SimilarWeb - Traffic Rank & Website Analysis**
 
-[![](./images/chrome/18.png)](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+<a href="https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/18.png)
+
 <br />
 
 ![](./images/chrome/19.png)
+
 <br />
 
 웹 사이트의 통계 및 전략에 대한 정보를 제공하는 도구입니다.
@@ -177,10 +227,16 @@ Redux 개발 워크플로우 제공하는 도구입니다.
 
 ### **▸ Validity**
 
-[![](./images/chrome/20.png)](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+<a href="https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/20.png)
+
 <br />
 
 ![](./images/chrome/21.png)
+
 <br />
 
 HTML 문서의 유효성 검사 도구입니다.
@@ -190,10 +246,16 @@ HTML 문서의 유효성 검사 도구입니다.
 
 ### **▸ Wappalyzer**
 
-[![](./images/chrome/22.png)](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+<a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/22.png)
+
 <br />
 
 ![](./images/chrome/23.jpg)
+
 <br />
 
 웹 사이트에서 사용되는 기술을 밝혀내는 크로스 플랫폼 유틸리티입니다.
@@ -205,10 +267,16 @@ HTML 문서의 유효성 검사 도구입니다.
 
 ### **▸ WhatRuns**
 
-[![](./images/chrome/24.png)](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+<a href="https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/24.png)
+
 <br />
 
 ![](./images/chrome/25.jpg)
+
 <br />
 
 웹 사이트에서 사용되는 기술을 알려주는 도구입니다.
@@ -220,16 +288,24 @@ HTML 문서의 유효성 검사 도구입니다.
 
 ### **▸ ZenHub for GitHub**
 
-[![](./images/chrome/26.png)](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd)
+<a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd" target="_blank">chrome 웹 스토어 Link</a>
+
+<br />
+
+![](./images/chrome/26.png)
+
 <br />
 
 ![](./images/chrome/27.png)
+
 <br />
 
 ![](./images/chrome/28.png)
+
 <br />
 
 ![](./images/chrome/29.png)
+
 <br />
 
 `GitHub`를 사용하시는 분들께 추천드립니다.
